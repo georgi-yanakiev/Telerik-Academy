@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\DefiningClasesPart1\CellPhone\bin\Debug\CellPhone.exe
+d:\Users\Visual Studio 2010\Projects\DefiningClasesPart1\CellPhone\bin\Debug\CellPhone.pdb
+d:\Users\Visual Studio 2010\Projects\DefiningClasesPart1\CellPhone\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\DefiningClasesPart1\CellPhone\obj\x86\Debug\CellPhone.exe
+d:\Users\Visual Studio 2010\Projects\DefiningClasesPart1\CellPhone\obj\x86\Debug\CellPhone.pdb

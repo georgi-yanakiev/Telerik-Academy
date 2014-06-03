@@ -1,0 +1,1 @@
+C:\Users\METRONOME\Desktop\ExtensionMethodsLambdaExpressionsLINQ\ExtensionMethodsLambdaExpressionsLINQ\ListOfStrings\bin\Debug\ListOfStrings.exe.config

@@ -1,0 +1,5 @@
+D:\Users\GitHub\OOP\OOPPrinciples\02.HumanStudentWorker\bin\Debug\02.HumanStudentWorker.exe
+D:\Users\GitHub\OOP\OOPPrinciples\02.HumanStudentWorker\bin\Debug\02.HumanStudentWorker.pdb
+D:\Users\GitHub\OOP\OOPPrinciples\02.HumanStudentWorker\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\GitHub\OOP\OOPPrinciples\02.HumanStudentWorker\obj\x86\Debug\02.HumanStudentWorker.exe
+D:\Users\GitHub\OOP\OOPPrinciples\02.HumanStudentWorker\obj\x86\Debug\02.HumanStudentWorker.pdb

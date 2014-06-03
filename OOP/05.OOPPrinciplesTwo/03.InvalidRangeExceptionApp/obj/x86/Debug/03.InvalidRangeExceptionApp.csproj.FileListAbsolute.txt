@@ -1,0 +1,5 @@
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\03.InvalidRangeExceptionApp\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\03.InvalidRangeExceptionApp\bin\Debug\03.InvalidRangeExceptionApp.exe
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\03.InvalidRangeExceptionApp\bin\Debug\03.InvalidRangeExceptionApp.pdb
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\03.InvalidRangeExceptionApp\obj\x86\Debug\03.InvalidRangeExceptionApp.exe
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\03.InvalidRangeExceptionApp\obj\x86\Debug\03.InvalidRangeExceptionApp.pdb

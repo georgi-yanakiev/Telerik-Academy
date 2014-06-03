@@ -1,0 +1,5 @@
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\02.Bank\bin\Debug\02.Bank.exe
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\02.Bank\bin\Debug\02.Bank.pdb
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\02.Bank\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\02.Bank\obj\x86\Debug\02.Bank.exe
+d:\users\visual studio 2010\Projects\OOPPrinciplesTwo\02.Bank\obj\x86\Debug\02.Bank.pdb
