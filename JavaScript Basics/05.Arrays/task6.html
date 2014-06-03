@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Arrays</title>
+	<link rel="stylesheet" href="js-console.min.css">
+</head>
+<body>
+	<label for="input-tb">Insert numbers separeted by space <input type="text" id="input-tb"></label>
+	<button onclick="onClick();">Click Me!</button>
+	<div id="js-console"></div>
+	<script src="js-console.js"></script>
+	<script>
+		jsConsole.writeLine('Write a program that finds the most frequent number in an array.<br>');
+
+		function onClick() {
+			var input = document.getElementById('input-tb').value;
+			var arr = input.trim().split(' '); // trim unwanted spaces and split the value by space
+			var temp = 1,
+				max = 1,
+				elm;
+			arr.sort(function(a, b) {
+				return a - b
+			}); // sort the array
+
+			for (var i = 0; i < arr.length; i++) {
+
+				if (arr[i] == arr[i + 1]) temp++;
+				else temp = 1;
+
+				if (temp > max) {
+					max = temp;
+					elm = arr[i];
+				}
+
+			}
+
+			jsConsole.writeLine('Most frequent number is: ' + elm + ' and it\'s repeated ' + max + ' times.');
+
+		};
+	</script>
+</body>
+</html>

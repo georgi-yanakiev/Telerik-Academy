@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Arrays</title>
+	<link rel="stylesheet" href="js-console.min.css">
+</head>
+<body>
+	<label for="input-tb">Populate array with numbers separeted by space!<input type="text" id="input-tb1"></label>
+	<label for="input-tb">What number are you looking for?<input type="text" id="input-tb2"></label>
+	<button onclick="onClick();">Click Me!</button>
+	<div id="js-console"></div>
+	<script src="js-console.js"></script>
+	<script>
+		jsConsole.writeLine('Write a program that finds the index of given element in a sorted array of integers by using the binary search algorithm.<br>');
+
+		function onClick() {
+			var input = document.getElementById('input-tb1').value;
+			var arr = input.trim().split(' '); // trim unwanted spaces and split the value by space
+			var n = jsConsole.readInteger('#input-tb2');
+
+			// sort the array ASC
+			arr.sort(function (a,b){return a - b});
+
+			if (input != '' && !isNaN(n)) {
+				jsConsole.writeLine('Populated array: [' + arr.join(', ') + ']');
+				jsConsole.writeLine('The index of ' + n + ' is: ' + binarySearch(arr, n));
+			} else {
+				jsConsole.writeLine('Please insert valid values for the array and searched number!');
+			}
+
+		};
+
+		function binarySearch(arr, elm, start, end) {
+			// Create default values
+			var arr = arr || [];
+			var elm = parseFloat(elm) || '';
+			var start = start || 0;
+			var end = end || arr.length - 1;
+
+			// Check if it's array
+			if (start > end) {
+				return 'Key Not Found';
+			} else {
+				// calculate the middle index
+				var mid = parseInt((start + end) / 2);
+
+				// Key is in lower set
+				if (arr[mid] > elm) 
+					return binarySearch(arr, elm, start, mid-1);
+
+				// Key is in upper set
+				else if (arr[mid] < elm) 
+					return binarySearch(arr, elm, mid+1, end);
+
+				// Key has been found
+				else 
+					return mid;
+			}
+
+		};
+	</script>
+</body>
+</html>

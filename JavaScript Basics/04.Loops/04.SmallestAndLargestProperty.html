@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Max And Min In Sequence</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Click the button to view the values</label>
+    <button onclick="onClick();">Click Me!</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects.<br>');
+
+    function onClick() {
+        var arrObj = [document, window, navigator];
+
+        for (var i = 0, len = arrObj.length; i < len; i++) {
+            var output,
+                arr;
+
+            for (var property in arrObj[i]) {
+                output += property + ' ';
+            };
+
+            arr = output.split(' ');
+            arr = arr.sort();
+
+            jsConsole.writeLine('Object ' + arrObj[i] + ':');
+            jsConsole.writeLine('Smallest property: ' + arr[1]); // arr[1] because arr[0] is empty
+            jsConsole.writeLine('Largest property: ' + arr[arr.length - 1] + '<br>');
+        };
+    };
+    </script>
+</body>
+
+</html>

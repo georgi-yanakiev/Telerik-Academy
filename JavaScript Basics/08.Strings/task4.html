@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+    <link rel="stylesheet" href="js-console.min.css">
+</head>
+
+<body>
+    <input type="text" id="input-tb">
+    <button id="button">Click Me</button>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+    jsConsole.writeLine('04. You are given a text. Write a function that changes the text in all regions.<br>');
+    // <upcase>text</upcase> to uppercase.
+    // <lowcase>text</lowcase> to lowercase
+    // <mixcase>text</mixcase> to mix casing(random)
+
+    document.getElementById('button').onclick = function() {
+        var string = jsConsole.read('#input-tb'); // get the string
+        string = string.trim(); // trim unwanted spaces
+        var uppercase = findTags("upcase");
+        var lowercase = findTags("lowcase");
+        var mixedcase = findTags("mixcase");
+
+        if (string.length > 1) {
+            string = string.replace(uppercase, function(match, textToReplace) {
+                return textToReplace.toUpperCase();
+            }).replace(lowercase, function(match, textToReplace) {
+                return textToReplace.toLowerCase();
+            }).replace(mixedcase, function(match, textToReplace) {
+                return textToReplace.toMixCase();
+            });
+
+            jsConsole.writeLine(string);
+        } else {
+            jsConsole.writeLine('Please insert string bigger than one character');
+        }
+    };
+
+    String.prototype.toMixCase = function mixedCase() {
+        var temp = this.split("");
+
+        for (var i = 0; i < temp.length; i++) {
+            if (Math.random() > 0.5) {
+                temp[i] = temp[i].toLowerCase();
+            } else {
+                temp[i] = temp[i].toUpperCase();
+            }
+        }
+
+        return temp.join('');
+    };
+
+    function findTags(tag, caseSens) {
+        var modifier = "g";
+        var textInTag = "([^>]+)";
+        var reBuild = "<" + tag + ">" + textInTag + "</" + tag + ">";
+        if (!caseSens) {
+            modifier += "i";
+        }
+
+        return new RegExp(reBuild, modifier);
+    }
+    </script>
+</body>
+
+</html>

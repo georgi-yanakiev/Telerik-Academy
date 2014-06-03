@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sorting Numbers</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("04. Sort 3 real values in descending order using nested if statements.");
+    jsConsole.writeLine("----------------------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var numOne = Math.floor((Math.random() * 5000) - 2000),
+        numTwo = Math.floor((Math.random() * 5000) - 2000),
+        numThree = Math.floor((Math.random() * 5000) - 2000),
+        signCount = 0;
+
+    jsConsole.write("First number: " + numOne);
+    jsConsole.write(" / Second number: " + numTwo);
+    jsConsole.writeLine(" / Third number: " + numThree);
+
+    if (numOne > numTwo) {
+        if (numOne > numThree) {
+            if (numTwo > numThree) {
+                jsConsole.writeLine("Sorted numbers: " + numOne + ", " + numTwo + ", " + numThree);
+            } else {
+                jsConsole.writeLine("Sorted numbers: " + numOne + ", " + numThree + ", " + numTwo);
+            }
+        } else {
+            jsConsole.writeLine("Sorted numbers: " + numThree + ", " + numOne + ", " + numTwo);
+        }
+    } else if (numTwo > numThree) {
+        if (numOne > numThree) {
+            jsConsole.writeLine("Sorted numbers: " + numTwo + ", " + numOne + ", " + numThree);
+        } else {
+            jsConsole.writeLine("Sorted numbers: " + numTwo + ", " + numThree + ", " + numOne);
+        }
+    } else {
+        jsConsole.writeLine("Sorted numbers: " + numThree + ", " + numTwo + ", " + numOne);
+    }
+    </script>
+</body>
+
+</html>

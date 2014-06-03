@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Greatest Of Five</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("07. Write a script that finds the greatest of given 5 variables.");
+    jsConsole.writeLine("----------------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var firstNum = Math.floor((Math.random() * 1000) - 400),
+        secondNum = Math.floor((Math.random() * 1000) - 400),
+        thirdNum = Math.floor((Math.random() * 1000) - 400),
+        fourthNum = Math.floor((Math.random() * 1000) - 400),
+        fifthNum = Math.floor((Math.random() * 1000) - 400);
+
+    jsConsole.writeLine("First number: " + firstNum);
+    jsConsole.writeLine("Second number: " + secondNum);
+    jsConsole.writeLine("Third number: " + thirdNum);
+    jsConsole.writeLine("Fourth number: " + fourthNum);
+    jsConsole.writeLine("Fifth number: " + fifthNum);
+
+    greatestNum = 0;
+    greatestNum = firstNum;
+
+    if (greatestNum < secondNum) {
+        greatestNum = secondNum;
+    }
+    if (greatestNum < thirdNum) {
+        greatestNum = thirdNum;
+    }
+    if (greatestNum < fourthNum) {
+        greatestNum = fourthNum;
+    }
+    if (greatestNum < fifthNum) {
+        greatestNum = fifthNum;
+    }
+
+    jsConsole.writeLine("The greatest number is: " + greatestNum);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+    <link rel="stylesheet" href="js-console.min.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+    jsConsole.writeLine('11. Write a function that formats a string using placeholders.<br>');
+    (function() {
+        var string = 'Hello {0} {1} {2}!';
+
+        if (string.length > 1) {
+            jsConsole.writeLine(string);
+            jsConsole.writeLine(stringFormat(string, "Pesho", 2, undefined));
+        } else {
+            jsConsole.writeLine('Please insert string bigger than one character');
+        }
+    })();
+
+    function stringFormat() {
+        var argLength = arguments.length;
+
+        // Check for arguments.length. Must not exceed 31 (1st: string to check, 2-nd to N-th: replace placeholders)
+        if (argLength < 1) {
+            return "";
+        } else if (argLength == 1) {
+            return arguments[0].toString();
+        } else if (argLength > 31) {
+            throw new Error('Arguments exeeds argLength.');
+        } else {
+            var str = arguments[0];
+            var re = new RegExp("{\\s*(\\d){1,2}\\s*}", "g");
+            var match = str.match(re); // check for match in string
+
+            if (match !== null && match.length == arguments.length - 1) {
+                if (match[0][1] !== 0) return false;
+                else {
+
+                    // Replace all placeholders
+                    for (var i = 0; i < match.length; i++) {
+                        str = str.replace(match[i], arguments[i + 1]);
+                    }
+
+                    return str;
+                }
+            } else {
+                return false;
+            }
+        }
+    }
+    </script>
+</body>
+
+</html>

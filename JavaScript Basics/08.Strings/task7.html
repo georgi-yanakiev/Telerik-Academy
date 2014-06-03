@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+    <link rel="stylesheet" href="js-console.min.css">
+</head>
+
+<body>
+    <input type="text" id="input-tb">
+    <button id="button">Click Me</button>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+    jsConsole.writeLine('07. Write a script that parses an URL address given in the format.<br>');
+    //and extracts from it the [protocol], [server] and [resource] elements. Return the elements in a JSON object
+    document.getElementById('button').onclick = function() {
+        var string = jsConsole.read('#input-tb'); // get the string
+        string = string.trim(); // trim unwanted spaces
+
+        if (string.length > 1) {
+            var obj = urlToJSON(string);
+            for (var key in obj) {
+                jsConsole.writeLine(key + ': ' + obj[key]);
+            }
+        } else {
+            jsConsole.writeLine('Please insert string bigger than one character');
+        }
+    };
+
+    function urlToJSON(str) {
+        var temp = str.match(/^(http|https|ftp):\/\/([\w.\-]+)(\/.*)$/i);
+        console.log(temp);
+        return {
+            protocol: temp[1],
+            server: temp[2],
+            resource: temp[3]
+        };
+    }
+    </script>
+</body>
+
+</html>

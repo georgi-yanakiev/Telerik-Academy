@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Biggest Of Three Integers</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("03. Write a script that finds the biggest of three integers using nested ");
+    jsConsole.writeLine("if statements.");
+    jsConsole.writeLine("------------------------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var numOne = Math.floor((Math.random() * 5000) - 2000),
+        numTwo = Math.floor((Math.random() * 5000) - 2000),
+        numThree = Math.floor((Math.random() * 5000) - 2000),
+        signCount = 0;
+
+    jsConsole.write("First number: " + numOne);
+    jsConsole.write(" / Second number: " + numTwo);
+    jsConsole.writeLine(" / Third number: " + numThree);
+
+    if (numOne > numTwo) {
+        if (numOne > numThree) {
+            jsConsole.writeLine(numOne + " is the biggest number.");
+        } else {
+            jsConsole.writeLine(numThree + " is the biggest number.");
+        }
+    } else {
+        if (numTwo > numThree) {
+            jsConsole.writeLine(numTwo + " is the biggest number.");
+        } else {
+            jsConsole.writeLine(numThree + " is the biggest number.");
+        }
+    }
+    </script>
+</body>
+
+</html>

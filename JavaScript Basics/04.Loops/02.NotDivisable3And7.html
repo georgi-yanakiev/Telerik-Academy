@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Not Divisable By 3 And 7</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Enter a number:</label>
+    <input type="text" id="input-tb">
+    <button onclick="onClick();">Click Me!</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('Write a script that prints all the numbers from 1 to N, that are not divisible by 3 and 7 at the same time.<br>');
+
+    function onClick() {
+        var n = jsConsole.readInteger('#input-tb');
+        var numbers = '';
+        var divisible = '';
+
+        for (var i = 1; i <= n; i++) {
+            if ((i % 3 == 0) && (i % 7 == 0)) {
+                divisible += i + ' ';
+            } else {
+                numbers += i + ' ';
+            }
+        };
+
+        jsConsole.writeLine('Numbers from 1 to ' + n + ' that are NOT divisible by 3 and 7:<br>' + numbers + '<br>');
+    };
+    </script>
+</body>
+
+</html>

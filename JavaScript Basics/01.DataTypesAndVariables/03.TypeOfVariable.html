@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Type Of Variable</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("03. Try typeof on all variables you created.");
+    jsConsole.writeLine("--------------------------------------------");
+
+    var literal = 5;
+    jsConsole.writeLine(literal + " is a " + typeof literal);
+
+    literal = "\"This is a text!\"";
+    jsConsole.writeLine(literal + " is a " + typeof literal);
+
+    literal = 4.5774
+    jsConsole.writeLine(literal + " is a " + typeof literal);
+
+    literal = true;
+    jsConsole.writeLine(literal + " is a " + typeof literal);
+
+    literal = undefined;
+    jsConsole.writeLine(literal + " is " + typeof literal);
+
+    literal = null;
+    jsConsole.writeLine(literal + " is an " + typeof literal);
+    </script>
+
+</body>
+
+</html>

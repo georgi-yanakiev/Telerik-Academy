@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Max And Min In Sequence</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Enter a sequence:</label>
+    <input type="text" id="input-tb">
+    <button onclick="onClick();">Click Me!</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('Write a script that finds the max and min number from a sequence of numbers.<br>');
+
+    function onClick() {
+        var input = document.getElementById('input-tb').value;
+        input = input.trim(); // trim for unwanted spaces before and after the sequence
+        var arr = input.split(' ');
+
+        arr = arr.sort(function(a, b) { // sorting the numbers ASC
+            return a - b;
+        });
+
+        // Check for valid sequence
+        if (isNaN(parseFloat(arr[0])) || isNaN(parseFloat(arr[arr.length - 1])) || input === "") {
+            jsConsole.writeLine('Please insert a valid sequence of numbers separated by a space -> " "');
+        } else {
+            jsConsole.writeLine('Max number is: ' + arr[arr.length - 1]);
+            jsConsole.writeLine('Min number is: ' + arr[0]);
+        };
+    };
+    </script>
+</body>
+
+</html>

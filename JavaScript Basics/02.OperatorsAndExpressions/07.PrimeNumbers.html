@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Prime Numbers</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("07. Write an expression that checks if given positive ");
+    jsConsole.writeLine("integer number n (n ≤ 100) is prime. E.g. 37 is prime.");
+    jsConsole.writeLine("------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var number = Math.floor((Math.random() * 1000));
+    var text = " is a prime number";
+
+    for (i = 2; i < Math.floor(number / 2); i++) {
+        if (number % i === 0) {
+            text = " is a composite number";
+            break;
+        }
+    }
+
+    jsConsole.writeLine(number + text);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+    <link rel="stylesheet" href="js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Text
+        <input type="text" id="input-tb">
+    </label>
+    <label for="input-tb2">Substring
+        <input type="text" id="input-tb2" size="3">
+    </label>
+    <button id="button">Click Me</button>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+    jsConsole.writeLine('03. Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).<br>');
+
+    document.getElementById('button').onclick = function() {
+        var string = jsConsole.read('#input-tb'); // get the string
+        var subString = jsConsole.read('#input-tb2'); // get the substring
+        string = string.trim(); // trim unwanted spaces
+
+        if (string !== "" && subString !== "") {
+            var out = countSubstr(string, subString);
+            jsConsole.writeLine('The substring "' + subString + '" was found ' + out + ' times in the string:<br>"' + string + '"');
+        } else {
+            jsConsole.writeLine('Please insert string and substring to look for.');
+        }
+    };
+
+    function countSubstr(str, substr) {
+        var count = 0;
+        var index;
+
+        for (var i = 0; i < str.length; i++) {
+            // toLowerCase for Case-insensitive
+            index = str.toLowerCase().indexOf(substr, i);
+            if (index != -1) {
+                count++;
+                i = index + substr.length - 1;
+            }
+        }
+
+        return count;
+    }
+    </script>
+</body>
+
+</html>

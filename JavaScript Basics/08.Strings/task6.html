@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+    <link rel="stylesheet" href="js-console.min.css">
+</head>
+
+<body>
+    <input type="text" id="input-tb">
+    <button id="button">Click Me</button>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+    jsConsole.writeLine('06. Write a function that extracts the content of a html page given as text. The function should return anything that is in a tag, without the tags.<br>');
+
+    document.getElementById('button').onclick = function() {
+        var string = jsConsole.read('#input-tb'); // get the string
+        string = string.trim(); // trim unwanted spaces
+
+        if (string.length > 1) {
+            jsConsole.writeLine(extractText(string));
+        } else {
+            jsConsole.writeLine('Please insert string bigger than one character');
+        }
+    };
+
+    function extractText(str) {
+        return str.replace(/<(.*?)>/ig, "");
+    }
+    </script>
+</body>
+
+</html>

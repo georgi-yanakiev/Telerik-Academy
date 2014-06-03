@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Using Objects</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('01. Write functions for working with shapes in standard Planar coordinate system.<br>');
+
+    (function() {
+        // Create three points
+        var a = new Point(3, 4);
+        var b = new Point(2, 4);
+        var c = new Point(1, 2);
+
+        // Make segment lines with points
+        var ab = new Line(a, b);
+        var bc = new Line(b, c);
+        var ca = new Line(c, a);
+
+        // Get distance of each line
+        var abDist = ab.distance();
+        var bcDist = bc.distance();
+        var caDist = ca.distance();
+
+        // Display data
+        jsConsole.writeLine('Line AB ' + ab.toStr() + ' is with distance: ' + abDist);
+        jsConsole.writeLine('Line BC ' + bc.toStr() + ' is with distance: ' + bcDist);
+        jsConsole.writeLine('Line CA ' + ca.toStr() + ' is with distance: ' + caDist);
+
+        // Check for triange
+        if (checkForTriangle(abDist, bcDist, caDist)) {
+            jsConsole.writeLine('The three segment lines can form a triangle.');
+        } else {
+            jsConsole.writeLine('The three segment lines can NOT form a triangle.');
+        }
+    })();
+
+    // Create a point obj
+
+    function Point(x, y) {
+        this.x = x;
+        this.y = y;
+        this.toStr = function pointToString() {
+            return "P(" + this.x + ", " + this.y + ")";
+        };
+    }
+
+    // Create a line obj
+
+    function Line(sp, ep) {
+        this.sp = sp;
+        this.ep = ep;
+        this.toStr = function lineToString() {
+            return "L(P1(" + this.sp.x + ", " + this.sp.y + "), P2(" + this.ep.x + ", " + this.ep.y + "))";
+        };
+        this.distance = function Distance() {
+            return Math.sqrt((this.ep.x - this.sp.x) * (this.ep.x - this.sp.x) + (this.ep.y - this.sp.y) * (this.ep.y - this.sp.y));
+        };
+    }
+
+    // Check if the distances of three segment lines can form a triangle
+
+    function checkForTriangle(l1, l2, l3) {
+        if ((l1 + l2 > l3) && (l1 + l3 > l2) && (l2 + l3 > l1)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    </script>
+</body>
+
+</html>

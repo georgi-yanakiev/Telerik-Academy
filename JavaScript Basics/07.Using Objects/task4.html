@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Using Objects</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('04. Write a function that checks if a given object contains a given property.<br>');
+
+    function checkProperty(obj, prop) {
+        if (obj instanceof Object && prop !== null) {
+            if (obj.hasOwnProperty(prop)) {
+                return true;
+            } else {
+                return false;
+            }
+        } else {
+            throw new Error('Please provide valid data');
+        }
+    }
+
+    (function() {
+        var a = {
+            name: "Tony",
+            family: "Montana",
+            toStr: function fullName() {
+                return "Full Name: " + this.name + " " + this.family;
+            }
+        };
+
+        var propToSearch = "name";
+
+        if (checkProperty(a, propToSearch)) {
+            jsConsole.writeLine('The property "' + propToSearch + '" is contained in the given object');
+        } else {
+            jsConsole.writeLine('The object does NOT contain the property "' + propToSearch + '"');
+        }
+    })();
+    </script>
+</body>
+
+</html>

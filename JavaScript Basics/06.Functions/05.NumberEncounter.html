@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Number Encounter</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Insert numbers separeted by space:
+        <input type="text" id="input-tb">
+    </label>
+    <label for="number">Number to check:
+        <input type="text" id="number">
+    </label>
+    <button id="button">Click Me!</button>
+    <button onclick="testFunc();">Test Function!</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('05. Write a function that counts how many times given number appears in given array. Write a test function to check if the function is working correctly.<br>');
+
+    document.getElementById('button').onclick = function() {
+        var inp = document.getElementById('input-tb').value.trim(); // trim unwanted spaces
+        var num = jsConsole.readInteger('#number');
+        var arr = inp.split(' '); // split values by space
+        var count = countNumber(arr, num);
+
+        jsConsole.writeLine(' The number ' + num + ' appears ' + count + ' times in the array: ' + arr);
+    };
+
+    function countNumber(a, n) {
+        var a = a.map(Number);
+        var n = parseInt(n);
+        var c = 0;
+
+        for (var i = 0; i < a.length; i++) {
+            if (a[i] == n) c++;
+        };
+
+        return c;
+    };
+
+    function testFunc() {
+        var a = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5];
+        var b = [0, 1, 2, 3, 4, 5];
+        var out = 0;
+
+        for (var i = 0; i < b.length; i++) {
+            out += countNumber(a, b[i]);
+        };
+
+        if (out == 15) jsConsole.writeLine('Test successful!');
+        else jsConsole.writeLine('Test NOT successful');
+    };
+    </script>
+</body>
+
+</html>

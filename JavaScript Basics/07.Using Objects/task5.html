@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Using Objects</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('05. Write a function that finds the youngest person in a given array of persons and prints his/hers full name.<br>');
+
+    function findYoungest(array) {
+        var temp = [];
+        var result, bigger;
+
+        // Find the Person with smallest age
+        for (var i = 0; i < array.length; i++) {
+            temp[i] = array[i].age;
+        }
+
+        // sort the array with ages
+        temp = temp.sort(function(a, b) {
+            return a - b;
+        });
+        bigger = temp[0];
+
+        // Search for the correct object
+        for (var j = 0; j < array.length; j++) {
+            if (bigger == array[j].age) {
+                result = array[j];
+            }
+        }
+
+        return result;
+    }
+
+    function Person(fname, lname, age) {
+        this.firstname = fname;
+        this.lastname = lname;
+        this.age = age;
+    }
+
+    (function() {
+        var john = new Person("John", "Doe", 23);
+        var jane = new Person("Jane", "Doe", 18);
+        var smith = new Person("Agent", "Smith", 35);
+        var peter = new Person("Peter", "Berg", 56);
+        var sam = new Person("Sam", "Rockwell", 12);
+        var arr = [john, jane, smith, peter, sam];
+
+        var res = findYoungest(arr);
+        jsConsole.writeLine('The youngest person is "' + res.firstname + ' ' + res.lastname + '" whos age is ' + res.age);
+    })();
+    </script>
+</body>
+
+</html>

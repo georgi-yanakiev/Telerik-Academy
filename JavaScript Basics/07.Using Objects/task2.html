@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Using Objects</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Insert numbers separeted by space:
+        <input type="text" id="input-tb">
+    </label>
+    <label for="number">Element to remove:
+        <input type="text" id="number">
+    </label>
+    <button id="button">Click Me!</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('02. Write a function that removes all elements with a given value.<br>');
+
+    document.getElementById('button').onclick = function() {
+        var inp = document.getElementById('input-tb').value.trim(); // trim unwanted spaces
+        var elm = jsConsole.readInteger('#number');
+        var arr = inp.split(' '); // split values by space
+
+        jsConsole.writeLine('Array: [' + arr + ']<br>Removed number: ' + elm);
+
+        arr.remove(elm);
+
+        jsConsole.writeLine('New Array: [' + arr + ']');
+    };
+
+    if (!Array.prototype.remove) {
+        Array.prototype.remove = function(e) {
+            for (var i in this) {
+                if (this[i] == e) {
+                    this.splice(i, 1);
+                }
+            }
+        };
+    }
+    </script>
+</body>
+
+</html>

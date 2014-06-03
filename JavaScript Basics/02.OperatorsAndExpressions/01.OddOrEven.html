@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Odd Or Even</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("01. Write an expression that checks if given integer is odd or even.");
+    jsConsole.writeLine("--------------------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var number = Math.floor((Math.random() * 1000));
+    var result;
+
+    if (number % 2 === 0) {
+        result = 'even';
+    } else {
+        result = 'odd';
+    }
+
+    jsConsole.writeLine(number + " is " + result);
+    </script>
+
+</body>
+
+</html>

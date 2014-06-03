@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Last Digit</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Insert a number:
+        <input type="text" id="input-tb">
+    </label>
+    <button id="button">Click</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('01. Write a function that returns the last digit of given integer as an English word.<br>');
+
+    // Assign onclick function
+    document.getElementById('button').onclick = function() {
+        var number = document.getElementById('input-tb').value; // get the integer
+        var digit, n;
+
+        function getName(number) {
+            n = number % 10;
+            switch (n) {
+                case 0:
+                    digit = 'Zero';
+                    break;
+                case 1:
+                    digit = 'One';
+                    break;
+                case 2:
+                    digit = 'Two';
+                    break;
+                case 3:
+                    digit = 'Three';
+                    break;
+                case 4:
+                    digit = 'Four';
+                    break;
+                case 5:
+                    digit = 'Five';
+                    break;
+                case 6:
+                    digit = 'Six';
+                    break;
+                case 7:
+                    digit = 'Seven';
+                    break;
+                case 8:
+                    digit = 'Eight';
+                    break;
+                case 9:
+                    digit = 'Nine';
+                    break;
+                default:
+                    jsConsole.writeLine('Please enter a valid number!');
+                    break;
+            }
+
+            return digit;
+        }
+
+        jsConsole.writeLine(number + ' -> ' + getName(number));
+    };
+    </script>
+</body>
+
+</html>

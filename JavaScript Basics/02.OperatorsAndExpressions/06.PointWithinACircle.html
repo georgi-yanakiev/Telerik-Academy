@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Point Within A Circle</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("06. Write an expression that checks if given point (x, y) is within a circle ");
+    jsConsole.writeLine("K(O, 5).");
+    jsConsole.writeLine("------------------------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var circleX = Math.floor((Math.random() * 10)),
+        circleY = Math.floor((Math.random() * 10)),
+        circleRadius = 5;
+
+    circleRadius = circleRadius * circleRadius;
+    circleXPow = circleX * circleX;
+    circleYPow = circleY * circleY;
+
+    if ((circleXPow + circleYPow) < circleRadius) {
+        jsConsole.writeLine("The point with X = " + circleX + " and Y = " + circleY + " is within the circle");
+    } else {
+        jsConsole.writeLine("The point with X = " + circleX + " and Y = " + circleY + " is out of the circle");
+    }
+    </script>
+</body>
+
+</html>

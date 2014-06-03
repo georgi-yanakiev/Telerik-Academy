@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+    <link rel="stylesheet" href="js-console.min.css">
+</head>
+
+<body>
+    <input type="text" id="input-tb">
+    <button id="button">Click Me</button>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+    jsConsole.writeLine('10. Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".<br>');
+    document.getElementById('button').onclick = function() {
+        var string = jsConsole.read('#input-tb'); // get the string
+        string = string.trim(); // trim unwanted spaces
+        var words = findAllWords(string);
+        var palindromes = findPalindrome(words);
+
+        if (string.length > 1) {
+            if (words) {
+                jsConsole.writeLine(string);
+                if (palindromes !== false) {
+                    jsConsole.writeLine('<br>Palindromes: ' + palindromes);
+                } else {
+                    jsConsole.writeLine('There are no palindromes');
+                }
+            } else {
+
+            }
+        } else {
+            jsConsole.writeLine('Please insert string bigger than one character');
+        }
+    };
+
+    function findAllWords(str) {
+        var reBuild = /\b[a-zA-Z]{3,}\b/gi;
+        var re = new RegExp(reBuild);
+        var match = str.match(re); // check for match in string
+
+        if (match !== null) {
+            return match;
+        } else {
+            return false;
+        }
+    }
+
+    function reverseString(str) {
+        var strOut = [];
+
+        str = str.split("");
+
+        for (var i = 0; i < str.length; i++) {
+            strOut[(str.length - 1) - i] = str[i]; // reverse the array
+        }
+
+        return strOut.join(""); // return string
+    }
+
+    function findPalindrome(arr) {
+        var res = [];
+
+        // Check for palindromes
+        for (var i = 0; i < arr.length; i++) {
+            if (reverseString(arr[i]) == arr[i]) {
+                res.push(arr[i]);
+            }
+        }
+
+        if (res.length > 0) {
+            return res.join(', ');
+        } else {
+            return false;
+        }
+    }
+    </script>
+</body>
+
+</html>

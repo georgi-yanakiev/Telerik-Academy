@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Quadratic Equation</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("06. Write a script that enters the coefficients a, b and c of a quadratic ");
+    jsConsole.writeLine("equation a*x² + b*x + c = 0 and calculates and prints its real roots.");
+    jsConsole.writeLine("Note that quadratic equations may have 0, 1 or 2 real roots.");
+    jsConsole.writeLine("-------------------------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different coefficients:");
+
+    var coefA = Math.floor((Math.random() * 100) - 40),
+        coefB = Math.floor((Math.random() * 100) - 40),
+        coefC = Math.floor((Math.random() * 100) - 40),
+        discrim,
+        solutionOne,
+        solutionTwo;
+
+    jsConsole.write("Coefficient A: " + coefA);
+    jsConsole.write(" / Coefficient B: " + coefB);
+    jsConsole.writeLine(" / Coefficient C: " + coefC);
+
+
+    discrim = (coefB * coefB) - (4 * coefA * coefC); // discriminant calculation
+    jsConsole.writeLine("Discriminant: " + discrim);
+
+    if (discrim === 0) { // one solution only
+        solutionOne = -coefB / (2 * coefA);
+        jsConsole.writeLine("The solution is " + solutionOne);
+    } else if (discrim < 0) { // If discriminant is < 0, there is no solution
+        jsConsole.writeLine("There is no solution!");
+    } else { // discriminant > 0  -> 2 solutions
+        solutionOne = (-coefB - (Math.sqrt(discrim))) / (2 * coefA);
+        solutionTwo = (-coefB + (Math.sqrt(discrim))) / (2 * coefA);
+        jsConsole.writeLine("Solution one is " + solutionOne.toFixed(2));
+        jsConsole.writeLine("Solution two is " + solutionTwo.toFixed(2));
+    }
+    </script>
+</body>
+
+</html>

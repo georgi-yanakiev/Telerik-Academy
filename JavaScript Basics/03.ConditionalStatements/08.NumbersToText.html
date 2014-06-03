@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Numbers To Text</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("08. Write a script that converts a number in the range ");
+    jsConsole.writeLine("[0...999] to a text corresponding to its English pronunciation. ");
+    jsConsole.writeLine("----------------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var number = (Math.floor((Math.random() * 999))).toString(),
+        ones = ["", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"],
+        tens = ["", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"],
+        specialDigits = ["Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"];
+
+    jsConsole.write(number + " -> ");
+
+    switch (number.length) {
+        case 1: // 1-9
+            if (number[0] === 0) {
+                jsConsole.writeLine("Zero");
+            } else {
+                jsConsole.writeLine(ones[number[0]]);
+            }
+            break;
+        case 2: // 10 - 99
+            if (number[0] === 1) {
+                jsConsole.writeLine(specialDigits[number[1]]);
+            } else {
+                jsConsole.writeLine(tens[number[0]] + " " + ones[number[1]]);
+            }
+            break;
+        case 3: // 100 - 999
+            if (number[1] === 1) {
+                jsConsole.writeLine(ones[number[0] + " hundred and " + specialDigits[number[2]]]);
+            } else {
+                if (number[1] !== 0 || number[2] !== 0) {
+                    jsConsole.writeLine(ones[number[0]] + " hundred and " + tens[number[1]] + " " + ones[number[2]]);
+                } else {
+                    jsConsole.writeLine(ones[number[0]] + " hundred " + tens[number[1]] + " " + ones[number[2]]);
+                }
+            }
+            break;
+        default:
+            break;
+    }
+    </script>
+</body>
+
+</html>

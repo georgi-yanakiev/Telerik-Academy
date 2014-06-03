@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+    <link rel="stylesheet" href="js-console.min.css">
+</head>
+
+<body>
+    <input type="text" id="input-tb">
+    <button id="button">Click Me</button>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+    jsConsole.writeLine('01. Write a JavaScript function reverses string and returns it.<br>');
+
+    document.getElementById('button').onclick = function() {
+        var string = jsConsole.read('#input-tb'); // get the string
+        string = string.trim(); // trim unwanted spaces
+        var out;
+
+        if (string.length > 1) {
+            out = reverseString(string);
+            jsConsole.writeLine('Reversed string: ' + out);
+        } else {
+            jsConsole.writeLine('Please insert string bigger than one character');
+        }
+    };
+
+    function reverseString(str) {
+        var strOut = [];
+
+        str = str.split("");
+
+        for (var i = 0; i < str.length; i++) {
+            strOut[(str.length - 1) - i] = str[i]; // reverse the array
+        };
+
+        return strOut.join(""); // return string
+    }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Functions</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Insert numbers separeted by space:
+        <input type="text" id="input-tb">
+    </label>
+    <label for="number">Position to check:
+        <input type="text" id="number">
+    </label>
+    <button id="button">Click Me!</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('06. Write a function that checks if the element at given position in given array of integers is bigger than its two neighbors (when such exist).<br>');
+
+    document.getElementById('button').onclick = function() {
+        var inp = document.getElementById('input-tb').value.trim(); // trim unwanted spaces
+        var pos = jsConsole.readInteger('#number');
+        var arr = inp.split(' '); // split values by space
+        var result;
+
+        if (arr.length <= 2 || isNaN(parseInt(pos))) {
+            jsConsole.writeLine("Please provide valid data. Array of at least 3 integers and position to check.");
+        } else {
+            if (isBigger(arr, pos)) {
+                result = 'bigger';
+            } else {
+                result = 'NOT bigger';
+            }
+
+            jsConsole.writeLine('The number (' + arr[pos - 1] + ') at position ' + pos + ' is ' + result + ' than it\'s two neighbours.');
+        }
+    };
+
+    function isBigger(arr, pos) {
+        if (arr[pos - 2] < arr[pos - 1] && arr[pos - 1] > arr[pos]) {
+            return true;
+        } else {
+            return false;
+        }
+    };
+    </script>
+</body>
+
+</html>

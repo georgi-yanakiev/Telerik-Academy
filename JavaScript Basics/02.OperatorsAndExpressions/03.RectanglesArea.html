@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Rectangle's Area</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("03. Write an expression that calculates rectangle’s area by given width and height.");
+    jsConsole.writeLine("------------------------------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var width = Math.floor((Math.random() * 100) + 1);
+    var height = Math.floor((Math.random() * 100) + 1);
+    var rectanglesArea = (2 * width) + (2 * height);
+
+    jsConsole.writeLine("Width = " + width);
+    jsConsole.writeLine("Height = " + height);
+    jsConsole.writeLine("The rectangle’s area is: (2 * " + width + ") + (2 * " + height + ") = " + rectanglesArea);
+    </script>
+</body>
+
+</html>

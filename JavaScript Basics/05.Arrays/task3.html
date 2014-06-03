@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Arrays</title>
+	<link rel="stylesheet" href="js-console.min.css">
+</head>
+<body>
+	<label for="input-tb">Insert numbers separeted by space <input type="text" id="input-tb"></label>
+	<button onclick="onClick();">Click Me!</button>
+	<div id="js-console"></div>
+	<script src="js-console.js"></script>
+	<script>
+		jsConsole.writeLine('Write a script that finds the maximal sequence of equal elements in an array.<br>');
+
+		function onClick() {
+			var input = document.getElementById('input-tb').value;
+			var arr = input.trim().split(' '); // trim unwanted spaces and split the value by space
+			var len = 1; // current length of the sequence
+			var bestLen = 1; // longest length of equal numbers
+			var elm; // var to be equal to the numbers of the sequence
+			var result = new Array(); // array to be filled with the longest sequence
+
+			// Check for equal numbers in array and increment var len
+			for (var i = 1; i < arr.length; i++) {
+				if (arr[i] === arr[i - 1]) len++;
+				else len = 1;
+				if (len > bestLen) {
+					bestLen = len;
+					elm = arr[i];
+				}
+			}
+
+			// Populate the result array
+			for (var j = 0; j < bestLen; j++) {
+				result[j] = elm;
+			}
+
+			jsConsole.writeLine('Best sequence is: [' + result + ']');
+
+		};
+	</script>
+</body>
+</html>

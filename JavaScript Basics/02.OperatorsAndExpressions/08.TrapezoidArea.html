@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Trapezoid Area</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("08. Write an expression that calculates trapezoid's ");
+    jsConsole.writeLine("area by given sides a and b and height h.");
+    jsConsole.writeLine("---------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var trapezoidA = Math.floor((Math.random() * 100) + 1),
+        trapezoidB = Math.floor((Math.random() * 100) + 1),
+        trapezodHeight = Math.floor((Math.random() * 100) + 1),
+        result = (trapezoidA + trapezoidB) / 2 * trapezodHeight;
+
+    jsConsole.writeLine("Trapezoid's A side is: " + trapezoidA);
+    jsConsole.writeLine("Trapezoid's B side is: " + trapezoidB);
+    jsConsole.writeLine("Trapezoid's height is: " + trapezodHeight);
+    jsConsole.writeLine("The area of the trapezoid is: " + result);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+    <link rel="stylesheet" href="js-console.min.css">
+</head>
+
+<body>
+    <input type="text" id="input-tb">
+    <button id="button">Click Me</button>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+    jsConsole.writeLine('02. Write a JavaScript function to check if in a given expression the brackets are put correctly.<br>');
+
+    document.getElementById('button').onclick = function() {
+        var string = jsConsole.read('#input-tb'); // get the string
+        string = string.trim(); // trim unwanted spaces
+
+        if (string.length > 1) {
+            if (checkExp(string)) {
+                jsConsole.writeLine('Expresion IS correct!');
+            } else {
+                jsConsole.writeLine('Expresion is NOT correct!');
+            }
+        } else {
+            jsConsole.writeLine('Please insert string bigger than one character');
+        }
+    };
+
+    function checkExp(str) {
+        var count = 0,
+            out;
+        str = str.split(""); // make array of expresion symbols
+
+        if (str[0] == ")" || str[str.length - 1] == "(") {
+            out = false; // must not start with ending bracket
+        } else {
+            for (var i = 0; i < str.length; i++) {
+                if (str[i] == ")" && str[i - 1] == "(") {
+                    out = false; // must not have empty brackets ()
+                    break;
+                } else {
+                    if (str[i] == "(") count++;
+                    else if (str[i] == ")") count--;
+                }
+            };
+
+            if (count < 0) {
+                out = false;
+            } else if (count == 0) {
+                out = true;
+            } else {
+                out = false;
+            }
+        }
+
+        return out;
+    }
+    </script>
+</body>
+
+</html>

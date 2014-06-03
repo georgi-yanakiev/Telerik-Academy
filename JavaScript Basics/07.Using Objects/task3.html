@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Using Objects</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('Write a function that makes a deep copy of an object.<br>');
+
+    function cloneObject(obj) {
+        if (obj === null || typeof obj !== "object") {
+            return obj;
+        }
+
+        var copy = obj instanceof Array ? [] : {};
+
+        if (obj instanceof Array) {
+            for (var i = 0; i < obj.length; i++) {
+                copy[i] = cloneObject(obj[i]);
+            }
+            return copy;
+
+        } else if (obj instanceof Object) {
+            for (var prop in obj) {
+                if (obj.hasOwnProperty(prop)) {
+                    copy[prop] = cloneObject(obj[prop]);
+                }
+            }
+            return copy;
+        } else {
+            throw new Error('Please provide valid data');
+        }
+    }
+
+    (function() {
+        var a = {
+            name: "Tony",
+            family: "Montana",
+            toStr: function fullName() {
+                return "Full Name: " + this.name + " " + this.family;
+            }
+        };
+        var b = cloneObject(a);
+        jsConsole.writeLine(a.toStr());
+        jsConsole.writeLine(b.toStr());
+    })();
+    </script>
+</body>
+
+</html>

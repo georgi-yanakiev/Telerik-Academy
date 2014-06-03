@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Word Occurrences</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Insert a text:
+        <input type="text" id="input-tb">
+    </label>
+    <label for="word">Word to find:
+        <input type="text" id="word">
+    </label>
+    <label for="case">Case-insensetive
+        <input type="checkbox" id="case">
+    </label>
+    <button id="button">Click</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('03. Write a function that finds all the occurrences of word in a text.<br>');
+
+    // Assign onclick function
+    document.getElementById('button').onclick = function() {
+        var text = document.getElementById('input-tb').value; // get the integer
+        var word = document.getElementById('word').value;
+        var cs = document.getElementById('case').checked;
+
+        if (text != "" && word != "") {
+            jsConsole.writeLine(' The word "' + word + '" occurred ' + findOccurrences(word, text, cs) + ' times.');
+        } else {
+            jsConsole.writeLine('Please fill all fields');
+        }
+
+    };
+
+    function findOccurrences(w, t, s) {
+        var sens = s ? "i" : ""; // if true Case-insensetive else Case-sensetive
+        var r = new RegExp("(" + w + ")", "g" + sens);
+        var o = 0, // occurencies
+            arr; // array with results
+
+        if (arr = t.match(r)) {
+            o = arr.length;
+        }
+
+        return o;
+    }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Using Objects</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('06. Write a function that groups an array of persons by age, first or last name. The function must return an associative array, with keys -the groups, and values -arrays with persons in this groups.<br>');
+
+    function group(obj, prop) {
+        var grouped = {};
+
+        switch (prop) {
+            case "firstname":
+            case "lastname":
+            case "age":
+                {
+
+                    obj.map(function(p) {
+                        if (!grouped[p[prop]])
+                            grouped[p[prop]] = [];
+                        grouped[p[prop]].push(p);
+                    });
+
+                    return grouped;
+                }
+            default:
+                throw new Error("No such property in Person.");
+        }
+    }
+
+    function Person(fname, lname, age) {
+        this.firstname = fname;
+        this.lastname = lname;
+        this.age = age;
+        this.toStr = function personToStr() {
+            return this.firstname + " " + this.lastname + " (" + this.age + " years old)";
+        };
+    }
+
+    (function() {
+        var arr = [
+            new Person("John", "Doe", 35),
+            new Person("Jane", "Doe", 18),
+            new Person("Agent", "Smith", 35),
+            new Person("John", "Jameson", 27),
+            new Person("Sam", "Jameson", 27),
+            new Person("Peter", "Smith", 56),
+            new Person("Sam", "Rockwell", 18)
+        ];
+
+        for (var i in arr) {
+            jsConsole.writeLine(arr[i].toStr());
+        }
+
+        jsConsole.writeLine('<br>' + 'Grouped by firstname:');
+
+        // By firstname
+        var groupedByName = group(arr, "firstname");
+        for (var groupProp in groupedByName) {
+            var persons = "";
+            for (var p in groupedByName[groupProp]) {
+                persons += groupedByName[groupProp][p].toStr() + " ";
+            }
+            jsConsole.writeLine("By " + groupProp + " - " + persons);
+        }
+
+        jsConsole.writeLine('<br>' + 'Grouped by lastname:');
+
+        // By lastname
+        var groupedByName = group(arr, "lastname");
+        for (var groupProp in groupedByName) {
+            var persons = "";
+            for (var p in groupedByName[groupProp]) {
+                persons += groupedByName[groupProp][p].toStr() + " ";
+            }
+            jsConsole.writeLine("By " + groupProp + " - " + persons);
+        }
+
+        jsConsole.writeLine('<br>' + 'Grouped by age:');
+
+        // By age
+        var groupedByName = group(arr, "age");
+        for (var groupProp in groupedByName) {
+            var persons = "";
+            for (var p in groupedByName[groupProp]) {
+                persons += groupedByName[groupProp][p].toStr() + " ";
+            }
+            jsConsole.writeLine("By " + groupProp + " - " + persons);
+        }
+
+    })();
+    </script>
+</body>
+
+</html>

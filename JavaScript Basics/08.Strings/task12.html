@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+    <link rel="stylesheet" href="js-console.min.css">
+</head>
+
+<body>
+    <script>
+    //Write a function that creates a HTML UL using a template for every HTML LI. The source of the list should an array of elements. Replace all placeholders marked with –{…}– with the value of the corresponding property of the object.
+
+    var template = "<strong>-{name}-</strong>&nbsp;<span>-{age}-</span>"; // template for the LI in UL
+    var people = [ // object with people to fill the list
+        {
+            name: "Claus",
+            age: "20"
+        }, {
+            name: "Helena",
+            age: "51"
+        }, {
+            name: "George",
+            age: "32"
+        }, {
+            name: "Peter",
+            age: "13"
+        }, {
+            name: "Clive",
+            age: "24"
+        },
+    ];
+
+
+    function genList(template, object) {
+        var ul = document.createElement('ul');
+        ul.style.listStyleType = 'none';
+        var re = new RegExp("-{(\\w+?)}-"); // Change here for different search
+
+        for (var i = 0; i < object.length; i++) {
+            var li = document.createElement('li');
+            var currTemp = template;
+            var matched = currTemp.match(re);
+
+            // Replace the placeholders with object's property
+            while (matched !== null) {
+                var objName = matched[1];
+                currTemp = currTemp.replace(matched[0], object[i][objName]);
+                matched = currTemp.match(re);
+            }
+
+            li.innerHTML = currTemp; // populate the list items
+            ul.appendChild(li); // append the LI to the UL
+        }
+
+        document.body.appendChild(ul); // append the UL to the document's body
+    }
+
+    genList(template, people);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Dividable On 5 And 7</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css">
+</head>
+
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine("02. Write a boolean expression that checks for given integer if ");
+    jsConsole.writeLine("it can be divided (without remainder) by 7 and 5 in the same time.");
+    jsConsole.writeLine("------------------------------------------------------------------");
+    jsConsole.writeLine("Refresh to check with different numbers:");
+
+    var number = Math.floor((Math.random() * 1000));
+    var result = false;
+
+    if ((number % 7 === 0) && (number % 5 === 0)) {
+        result = true;
+    } else {
+        result = false;
+    }
+
+    jsConsole.writeLine("Is " + number + " divisable by 7 and 5 in the same time: " + result);
+    </script>
+
+</body>
+
+</html>

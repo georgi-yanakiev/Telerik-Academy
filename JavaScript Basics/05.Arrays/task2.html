@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Arrays</title>
+	<link rel="stylesheet" href="js-console.min.css">
+</head>
+<body>
+	<label for="input-tb1">First array:<input type="text" id="input-tb1"></label>
+	<label for="input-tb2">Second array:<input type="text" id="input-tb2"></label>
+	<button onclick="onClick();">Click Me!</button>
+	<div id="js-console"></div>
+	<script src="js-console.js"></script>
+	<script>
+		jsConsole.writeLine('Write a script that compares two char arrays lexicographically (letter by letter).<br>');
+
+		function onClick() {
+			var first = document.getElementById('input-tb1').value;
+			var second = document.getElementById('input-tb2').value;
+			var arr1 = first.trim().split(' '); // trim unwanted spaces and split the value by space
+			var arr2 = second.trim().split(' '); // trim unwanted spaces and split the value by space
+			var earlier;
+
+			if (!(isValid(arr1) && isValid(arr2)) || (arr1.length <= 0 || arr2.length <= 0)) {
+				// There was a problem
+				jsConsole.writeLine('Please provide only single characters separeted by space for the array!');
+			} else {
+				// Make the comparison
+				if (arr1.length > arr2.length) {
+					earlier = arr2;
+				} else if (arr1.length < arr2.length) {
+					earlier = arr1;
+				}else {
+					for (var i = 0; i < arr1.length; i++) {
+						if (arr1[i] > arr2[i]) {
+							earlier = arr2;
+							break;
+						} else if (arr1[i] < arr2[i]) {
+							earlier = arr1;
+							break;
+						} else {
+							earlier = "The two arrays are equal!";
+						}
+					}
+				}
+				
+				jsConsole.writeLine('The result of the comparison: ' + earlier);
+			}
+
+		};
+
+		function isValid (arr) {
+			for (var i = 0; i < arr.length; i++) {
+				if (isNaN(arr[i]) && isSingleChar(arr[i])) return true;
+				else {
+					return false;
+					break;
+				}
+			}
+		};
+
+		function isSingleChar (char) {
+			var ch = char.split('');
+			return ch.length > 1 ? false : true;
+		};
+	</script>
+</body>
+</html>

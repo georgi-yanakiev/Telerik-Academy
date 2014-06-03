@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Index Of Element</title>
+    <link rel="stylesheet" href="styles/js-console.min.css">
+</head>
+
+<body>
+    <label for="input-tb">Insert numbers separeted by space:
+        <input type="text" id="input-tb">
+    </label>
+    <button id="button">Click Me!</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    jsConsole.writeLine('07. Write a function that returns the index of the first element in array that is bigger than its neighbors, or -1, if there’s no such element.<br>');
+
+    document.getElementById('button').onclick = function() {
+        var inp = document.getElementById('input-tb').value.trim(); // trim unwanted spaces
+        var arr = inp.split(' '); // split values by space
+        var result = checkArray(arr);
+
+        if (arr.length <= 2) {
+            jsConsole.writeLine("Please provide array of at least 3 integers.");
+        } else {
+
+            if (result == -1) jsConsole.writeLine('There is no such element.');
+            else
+                jsConsole.writeLine('The number (' + arr[result] + ') has index: ' + result);
+        }
+    };
+
+    function isBigger(arr, pos) {
+        if (arr[pos - 2] < arr[pos - 1] && arr[pos - 1] > arr[pos]) {
+            return true;
+        } else {
+            return false;
+        }
+    };
+
+    function checkArray(arr) {
+        var index;
+
+        for (var i = 1; i < arr.length - 1; i++) {
+            if (isBigger(arr, i + 1)) {
+                index = i; // i+1 = position of element used in isBigger()
+                break;
+            } else {
+                index = -1;
+            }
+        }
+
+        return index;
+    };
+    </script>
+</body>
+
+</html>
