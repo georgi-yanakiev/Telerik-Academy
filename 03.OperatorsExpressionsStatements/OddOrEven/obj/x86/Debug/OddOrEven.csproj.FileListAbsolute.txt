@@ -1,0 +1,5 @@
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\OddOrEven\bin\Debug\OddOrEven.exe
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\OddOrEven\bin\Debug\OddOrEven.pdb
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\OddOrEven\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\OddOrEven\obj\x86\Debug\OddOrEven.exe
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\OddOrEven\obj\x86\Debug\OddOrEven.pdb

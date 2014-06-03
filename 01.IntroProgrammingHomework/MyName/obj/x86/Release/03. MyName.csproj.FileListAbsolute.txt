@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\bin\Release\MyName.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\bin\Release\MyName.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\obj\x86\Release\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\obj\x86\Release\MyName.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\obj\x86\Release\MyName.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyName\bin\Release\MyName.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyName\bin\Release\MyName.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyName\obj\x86\Release\MyName.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyName\obj\x86\Release\MyName.pdb

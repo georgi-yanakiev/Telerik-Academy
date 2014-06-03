@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\CoordinateSystem\bin\Debug\CoordinateSystem.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\CoordinateSystem\bin\Debug\CoordinateSystem.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\CoordinateSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\CoordinateSystem\obj\x86\Debug\CoordinateSystem.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\CoordinateSystem\obj\x86\Debug\CoordinateSystem.pdb

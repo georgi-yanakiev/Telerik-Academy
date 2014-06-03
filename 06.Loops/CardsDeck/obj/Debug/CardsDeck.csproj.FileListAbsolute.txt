@@ -1,0 +1,5 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\CardsDeck\bin\Debug\CardsDeck.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\CardsDeck\bin\Debug\CardsDeck.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\CardsDeck\bin\Debug\CardsDeck.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\CardsDeck\obj\Debug\CardsDeck.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\CardsDeck\obj\Debug\CardsDeck.pdb

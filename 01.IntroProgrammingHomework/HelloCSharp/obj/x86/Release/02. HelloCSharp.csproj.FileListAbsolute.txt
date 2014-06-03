@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\HelloCSharp\bin\Release\HelloCSharp.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\HelloCSharp\bin\Release\HelloCSharp.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\HelloCSharp\obj\x86\Release\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\HelloCSharp\obj\x86\Release\HelloCSharp.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\HelloCSharp\obj\x86\Release\HelloCSharp.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\HelloCSharp\bin\Release\HelloCSharp.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\HelloCSharp\bin\Release\HelloCSharp.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\HelloCSharp\obj\x86\Release\HelloCSharp.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\HelloCSharp\obj\x86\Release\HelloCSharp.pdb

@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\RectangleArea\obj\x86\Debug\RectangleArea.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\RectangleArea\obj\x86\Debug\RectangleArea.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\RectangleArea\bin\Debug\RectangleArea.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\RectangleArea\bin\Debug\RectangleArea.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\RectangleArea\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\RectangleArea\bin\Debug\RectangleArea.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\RectangleArea\obj\x86\Debug\RectangleArea.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\RectangleArea\obj\x86\Debug\RectangleArea.pdb

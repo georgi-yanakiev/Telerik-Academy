@@ -1,0 +1,5 @@
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\MathExpression\bin\Debug\MathExpression.exe
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\MathExpression\bin\Debug\MathExpression.pdb
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\MathExpression\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\MathExpression\obj\x86\Debug\MathExpression.exe
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\MathExpression\obj\x86\Debug\MathExpression.pdb

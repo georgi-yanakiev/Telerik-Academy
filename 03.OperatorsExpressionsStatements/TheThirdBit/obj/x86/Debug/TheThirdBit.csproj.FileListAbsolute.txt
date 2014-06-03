@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TheThirdBit\bin\Debug\TheThirdBit.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TheThirdBit\bin\Debug\TheThirdBit.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TheThirdBit\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TheThirdBit\obj\x86\Debug\TheThirdBit.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TheThirdBit\obj\x86\Debug\TheThirdBit.pdb

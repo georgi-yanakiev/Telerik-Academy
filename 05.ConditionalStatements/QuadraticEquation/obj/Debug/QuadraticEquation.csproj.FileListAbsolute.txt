@@ -1,0 +1,5 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

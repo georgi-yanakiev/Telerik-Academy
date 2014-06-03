@@ -1,0 +1,2 @@
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\Numbers\obj\x86\Debug\Numbers.exe
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\Numbers\obj\x86\Debug\Numbers.pdb

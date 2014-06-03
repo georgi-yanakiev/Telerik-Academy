@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\TheSequence\obj\x86\Debug\TheSequence.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\TheSequence\obj\x86\Debug\TheSequence.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\TheSequence\bin\Debug\TheSequence.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\TheSequence\bin\Debug\TheSequence.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\TheSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\TheSequence\bin\Debug\TheSequence.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\TheSequence\bin\Debug\TheSequence.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\TheSequence\obj\x86\Debug\TheSequence.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\TheSequence\obj\x86\Debug\TheSequence.pdb

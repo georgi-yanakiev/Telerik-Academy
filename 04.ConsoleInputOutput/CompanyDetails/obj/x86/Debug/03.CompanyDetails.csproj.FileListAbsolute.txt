@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\CompanyDetails\obj\x86\Debug\CompanyDetails.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\CompanyDetails\obj\x86\Debug\CompanyDetails.pdb
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\CompanyDetails\bin\Debug\CompanyDetails.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\CompanyDetails\bin\Debug\CompanyDetails.pdb
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\CompanyDetails\obj\x86\Debug\ResolveAssemblyReference.cache

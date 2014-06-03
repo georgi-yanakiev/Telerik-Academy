@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\Names\obj\x86\Debug\Names.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\Names\obj\x86\Debug\Names.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\Names\bin\Debug\Names.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\Names\bin\Debug\Names.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\Names\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\Names\bin\Debug\Names.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\Names\bin\Debug\Names.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\Names\obj\x86\Debug\Names.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\Names\obj\x86\Debug\Names.pdb

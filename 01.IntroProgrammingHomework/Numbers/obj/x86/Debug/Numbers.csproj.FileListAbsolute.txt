@@ -1,0 +1,5 @@
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\Numbers\bin\Debug\Numbers.exe
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\Numbers\bin\Debug\Numbers.pdb
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\Numbers\obj\x86\Debug\Numbers.exe
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\Numbers\obj\x86\Debug\Numbers.pdb

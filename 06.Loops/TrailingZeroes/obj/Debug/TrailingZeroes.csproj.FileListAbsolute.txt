@@ -1,0 +1,5 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroes\bin\Debug\TrailingZeroes.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroes\obj\Debug\TrailingZeroes.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroes\obj\Debug\TrailingZeroes.pdb

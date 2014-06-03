@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\NumberComparison\obj\x86\Debug\NumberComparison.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\NumberComparison\obj\x86\Debug\NumberComparison.pdb
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\NumberComparison\bin\Debug\NumberComparison.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\NumberComparison\bin\Debug\NumberComparison.pdb
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\NumberComparison\obj\x86\Debug\ResolveAssemblyReference.cache

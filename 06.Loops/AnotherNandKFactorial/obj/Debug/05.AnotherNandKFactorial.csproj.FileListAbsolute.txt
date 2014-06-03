@@ -1,0 +1,6 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\AnotherNandKFactorial\bin\Debug\AnotherNandKFactorial.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\AnotherNandKFactorial\obj\Debug\AnotherNandKFactorial.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\AnotherNandKFactorial\obj\Debug\AnotherNandKFactorial.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\AnotherNandKFactorial\bin\Debug\AnotherNandKFactorial.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\AnotherNandKFactorial\bin\Debug\AnotherNandKFactorial.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\AnotherNandKFactorial\obj\Debug\05.AnotherNandKFactorial.csprojResolveAssemblyReference.cache

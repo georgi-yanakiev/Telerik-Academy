@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.pdb

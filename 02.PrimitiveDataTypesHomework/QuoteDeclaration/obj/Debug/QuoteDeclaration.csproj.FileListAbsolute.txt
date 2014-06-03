@@ -1,0 +1,5 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\QuoteDeclaration\bin\Debug\QuoteDeclaration.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\QuoteDeclaration\bin\Debug\QuoteDeclaration.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\QuoteDeclaration\bin\Debug\QuoteDeclaration.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\QuoteDeclaration\obj\Debug\QuoteDeclaration.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\QuoteDeclaration\obj\Debug\QuoteDeclaration.pdb

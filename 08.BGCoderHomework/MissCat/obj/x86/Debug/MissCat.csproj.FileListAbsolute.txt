@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\MissCat\bin\Debug\MissCat.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\MissCat\bin\Debug\MissCat.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\MissCat\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\MissCat\obj\x86\Debug\MissCat.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\MissCat\obj\x86\Debug\MissCat.pdb

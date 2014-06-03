@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. HelloCSharp", "HelloCSharp\02. HelloCSharp.csproj", "{CFEB6ECC-27BA-4534-95C4-573FC528760F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MyName", "MyName\03. MyName.csproj", "{57484308-87C7-40B1-9A4A-9BEF94258936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Numbers", "Numbers\04. Numbers.csproj", "{31A06697-E7C5-45A3-BCEC-9BDDCD2318B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Names", "Names\06. Names.csproj", "{0E2770F2-5853-446C-A0C5-EFE29D87FF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. SquareNumbers", "SquareNumbers\08. SquareNumbers.csproj", "{1E22B8E3-FF20-4DD2-88FC-25321B538BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. DateAndTime", "DateAndTime\07. DateAndTime.csproj", "{CDD6DA74-DE7E-44B5-A128-44EA34D5B8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. TheSequence", "TheSequence\09. TheSequence.csproj", "{172AD6D4-D192-434E-A690-D1D0BA32BF59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. MyAgeAfter10", "MyAgeAfter10\12. MyAgeAfter10.csproj", "{831ADFBA-30A4-4419-8855-2DD30638971F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFEB6ECC-27BA-4534-95C4-573FC528760F}.Debug|x86.ActiveCfg = Debug|x86
+		{CFEB6ECC-27BA-4534-95C4-573FC528760F}.Debug|x86.Build.0 = Debug|x86
+		{CFEB6ECC-27BA-4534-95C4-573FC528760F}.Release|x86.ActiveCfg = Release|x86
+		{CFEB6ECC-27BA-4534-95C4-573FC528760F}.Release|x86.Build.0 = Release|x86
+		{57484308-87C7-40B1-9A4A-9BEF94258936}.Debug|x86.ActiveCfg = Debug|x86
+		{57484308-87C7-40B1-9A4A-9BEF94258936}.Debug|x86.Build.0 = Debug|x86
+		{57484308-87C7-40B1-9A4A-9BEF94258936}.Release|x86.ActiveCfg = Release|x86
+		{57484308-87C7-40B1-9A4A-9BEF94258936}.Release|x86.Build.0 = Release|x86
+		{31A06697-E7C5-45A3-BCEC-9BDDCD2318B6}.Debug|x86.ActiveCfg = Debug|x86
+		{31A06697-E7C5-45A3-BCEC-9BDDCD2318B6}.Debug|x86.Build.0 = Debug|x86
+		{31A06697-E7C5-45A3-BCEC-9BDDCD2318B6}.Release|x86.ActiveCfg = Release|x86
+		{31A06697-E7C5-45A3-BCEC-9BDDCD2318B6}.Release|x86.Build.0 = Release|x86
+		{0E2770F2-5853-446C-A0C5-EFE29D87FF52}.Debug|x86.ActiveCfg = Debug|x86
+		{0E2770F2-5853-446C-A0C5-EFE29D87FF52}.Debug|x86.Build.0 = Debug|x86
+		{0E2770F2-5853-446C-A0C5-EFE29D87FF52}.Release|x86.ActiveCfg = Release|x86
+		{0E2770F2-5853-446C-A0C5-EFE29D87FF52}.Release|x86.Build.0 = Release|x86
+		{1E22B8E3-FF20-4DD2-88FC-25321B538BCF}.Debug|x86.ActiveCfg = Debug|x86
+		{1E22B8E3-FF20-4DD2-88FC-25321B538BCF}.Debug|x86.Build.0 = Debug|x86
+		{1E22B8E3-FF20-4DD2-88FC-25321B538BCF}.Release|x86.ActiveCfg = Release|x86
+		{1E22B8E3-FF20-4DD2-88FC-25321B538BCF}.Release|x86.Build.0 = Release|x86
+		{CDD6DA74-DE7E-44B5-A128-44EA34D5B8BF}.Debug|x86.ActiveCfg = Debug|x86
+		{CDD6DA74-DE7E-44B5-A128-44EA34D5B8BF}.Debug|x86.Build.0 = Debug|x86
+		{CDD6DA74-DE7E-44B5-A128-44EA34D5B8BF}.Release|x86.ActiveCfg = Release|x86
+		{CDD6DA74-DE7E-44B5-A128-44EA34D5B8BF}.Release|x86.Build.0 = Release|x86
+		{172AD6D4-D192-434E-A690-D1D0BA32BF59}.Debug|x86.ActiveCfg = Debug|x86
+		{172AD6D4-D192-434E-A690-D1D0BA32BF59}.Debug|x86.Build.0 = Debug|x86
+		{172AD6D4-D192-434E-A690-D1D0BA32BF59}.Release|x86.ActiveCfg = Release|x86
+		{172AD6D4-D192-434E-A690-D1D0BA32BF59}.Release|x86.Build.0 = Release|x86
+		{831ADFBA-30A4-4419-8855-2DD30638971F}.Debug|x86.ActiveCfg = Debug|x86
+		{831ADFBA-30A4-4419-8855-2DD30638971F}.Debug|x86.Build.0 = Debug|x86
+		{831ADFBA-30A4-4419-8855-2DD30638971F}.Release|x86.ActiveCfg = Release|x86
+		{831ADFBA-30A4-4419-8855-2DD30638971F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

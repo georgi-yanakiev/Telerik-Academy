@@ -1,0 +1,6 @@
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\NotDivisableNumbers\bin\Debug\NotDivisableNumbers.exe.config
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\NotDivisableNumbers\obj\Debug\NotDivisableNumbers.exe
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\NotDivisableNumbers\obj\Debug\NotDivisableNumbers.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\NotDivisableNumbers\bin\Debug\NotDivisableNumbers.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\NotDivisableNumbers\bin\Debug\NotDivisableNumbers.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\NotDivisableNumbers\obj\Debug\02.NotDivisableNumbers.csprojResolveAssemblyReference.cache

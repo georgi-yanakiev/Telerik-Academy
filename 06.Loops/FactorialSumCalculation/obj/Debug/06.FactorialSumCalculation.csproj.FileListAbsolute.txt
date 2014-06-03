@@ -1,0 +1,5 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\FactorialSumCalculation\bin\Debug\FactorialSumCalculation.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\FactorialSumCalculation\bin\Debug\FactorialSumCalculation.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\FactorialSumCalculation\bin\Debug\FactorialSumCalculation.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\FactorialSumCalculation\obj\Debug\FactorialSumCalculation.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\FactorialSumCalculation\obj\Debug\FactorialSumCalculation.pdb

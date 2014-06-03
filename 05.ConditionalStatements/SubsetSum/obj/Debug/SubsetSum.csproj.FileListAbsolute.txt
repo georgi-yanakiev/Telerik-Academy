@@ -1,0 +1,1 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SubsetSum\bin\Debug\SubsetSum.exe.config

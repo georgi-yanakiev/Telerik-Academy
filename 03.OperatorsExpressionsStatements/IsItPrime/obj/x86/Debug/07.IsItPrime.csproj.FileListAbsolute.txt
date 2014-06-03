@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItPrime\bin\Debug\IsItPrime.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItPrime\bin\Debug\IsItPrime.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItPrime\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItPrime\obj\x86\Debug\IsItPrime.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItPrime\obj\x86\Debug\IsItPrime.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\IsItPrime\bin\Debug\IsItPrime.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\IsItPrime\bin\Debug\IsItPrime.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\IsItPrime\obj\x86\Debug\IsItPrime.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\IsItPrime\obj\x86\Debug\IsItPrime.pdb

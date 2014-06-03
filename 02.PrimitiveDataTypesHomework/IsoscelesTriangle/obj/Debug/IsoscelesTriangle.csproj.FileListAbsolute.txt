@@ -1,0 +1,5 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

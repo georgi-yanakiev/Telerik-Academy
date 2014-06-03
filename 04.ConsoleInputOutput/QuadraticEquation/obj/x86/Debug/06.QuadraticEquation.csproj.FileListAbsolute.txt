@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\QuadraticEquation\obj\x86\Debug\QuadraticEquation.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\QuadraticEquation\obj\x86\Debug\QuadraticEquation.pdb
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\QuadraticEquation\obj\x86\Debug\ResolveAssemblyReference.cache

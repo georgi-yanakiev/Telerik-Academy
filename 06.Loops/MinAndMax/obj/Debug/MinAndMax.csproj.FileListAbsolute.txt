@@ -1,0 +1,5 @@
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\MinAndMax\bin\Debug\MinAndMax.exe.config
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\MinAndMax\bin\Debug\MinAndMax.exe
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\MinAndMax\bin\Debug\MinAndMax.pdb
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\MinAndMax\obj\Debug\MinAndMax.exe
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\MinAndMax\obj\Debug\MinAndMax.pdb

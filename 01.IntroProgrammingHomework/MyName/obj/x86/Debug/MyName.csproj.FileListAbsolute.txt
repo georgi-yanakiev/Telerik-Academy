@@ -1,0 +1,5 @@
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\MyName\bin\Debug\MyName.exe
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\MyName\bin\Debug\MyName.pdb
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\MyName\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\MyName\obj\x86\Debug\MyName.exe
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\MyName\obj\x86\Debug\MyName.pdb

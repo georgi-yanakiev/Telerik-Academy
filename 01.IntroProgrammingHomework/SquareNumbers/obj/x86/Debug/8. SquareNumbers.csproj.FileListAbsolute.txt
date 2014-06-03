@@ -1,0 +1,5 @@
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\bin\Debug\SquareNumbers.exe
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\bin\Debug\SquareNumbers.pdb
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\obj\x86\Debug\SquareNumbers.exe
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\obj\x86\Debug\SquareNumbers.pdb

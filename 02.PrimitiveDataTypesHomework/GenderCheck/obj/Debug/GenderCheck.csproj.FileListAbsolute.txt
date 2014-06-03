@@ -1,0 +1,5 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\GenderCheck\bin\Debug\GenderCheck.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\GenderCheck\bin\Debug\GenderCheck.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\GenderCheck\bin\Debug\GenderCheck.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\GenderCheck\obj\Debug\GenderCheck.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\GenderCheck\obj\Debug\GenderCheck.pdb

@@ -1,0 +1,1 @@
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\NandKFactoriel\bin\Debug\NandKFactoriel.exe.config

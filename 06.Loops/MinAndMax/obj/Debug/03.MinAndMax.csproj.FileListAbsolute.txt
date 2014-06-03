@@ -1,0 +1,6 @@
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\MinAndMax\bin\Debug\MinAndMax.exe.config
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\MinAndMax\obj\Debug\MinAndMax.exe
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\MinAndMax\obj\Debug\MinAndMax.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\MinAndMax\bin\Debug\MinAndMax.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\MinAndMax\bin\Debug\MinAndMax.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\MinAndMax\obj\Debug\03.MinAndMax.csprojResolveAssemblyReference.cache

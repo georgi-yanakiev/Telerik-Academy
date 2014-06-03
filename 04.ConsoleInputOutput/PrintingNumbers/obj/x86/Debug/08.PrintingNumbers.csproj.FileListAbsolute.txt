@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PrintingNumbers\obj\x86\Debug\PrintingNumbers.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PrintingNumbers\obj\x86\Debug\PrintingNumbers.pdb
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PrintingNumbers\bin\Debug\PrintingNumbers.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PrintingNumbers\bin\Debug\PrintingNumbers.pdb
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PrintingNumbers\obj\x86\Debug\ResolveAssemblyReference.cache

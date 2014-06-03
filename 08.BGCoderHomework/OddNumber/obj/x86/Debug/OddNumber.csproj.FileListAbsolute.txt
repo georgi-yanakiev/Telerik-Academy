@@ -1,0 +1,5 @@
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\OddNumber\bin\Debug\OddNumber.exe
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\OddNumber\bin\Debug\OddNumber.pdb
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\OddNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\OddNumber\obj\x86\Debug\OddNumber.exe
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\OddNumber\obj\x86\Debug\OddNumber.pdb

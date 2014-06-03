@@ -1,0 +1,5 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\HelloWorldObject\bin\Debug\HelloWorldObject.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\HelloWorldObject\bin\Debug\HelloWorldObject.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\HelloWorldObject\bin\Debug\HelloWorldObject.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\HelloWorldObject\obj\Debug\HelloWorldObject.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\HelloWorldObject\obj\Debug\HelloWorldObject.pdb

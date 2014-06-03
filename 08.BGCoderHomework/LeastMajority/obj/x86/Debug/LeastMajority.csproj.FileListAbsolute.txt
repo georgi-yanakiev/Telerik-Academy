@@ -1,0 +1,5 @@
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\LeastMajority\bin\Debug\LeastMajority.exe
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\LeastMajority\bin\Debug\LeastMajority.pdb
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\LeastMajority\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\LeastMajority\obj\x86\Debug\LeastMajority.exe
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\LeastMajority\obj\x86\Debug\LeastMajority.pdb

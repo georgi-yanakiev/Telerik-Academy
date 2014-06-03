@@ -1,0 +1,6 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\InputTypeCheck\bin\Debug\InputTypeCheck.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\InputTypeCheck\bin\Debug\InputTypeCheck.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\InputTypeCheck\bin\Debug\InputTypeCheck.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\InputTypeCheck\obj\Debug\InputTypeCheck.csprojResolveAssemblyReference.cache
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\InputTypeCheck\obj\Debug\InputTypeCheck.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\InputTypeCheck\obj\Debug\InputTypeCheck.pdb

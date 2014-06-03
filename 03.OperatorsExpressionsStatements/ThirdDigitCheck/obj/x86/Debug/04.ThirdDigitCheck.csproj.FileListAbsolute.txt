@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\ThirdDigitCheck\obj\x86\Debug\ThirdDigitCheck.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\ThirdDigitCheck\obj\x86\Debug\ThirdDigitCheck.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\ThirdDigitCheck\bin\Debug\ThirdDigitCheck.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\ThirdDigitCheck\bin\Debug\ThirdDigitCheck.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\ThirdDigitCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\ThirdDigitCheck\bin\Debug\ThirdDigitCheck.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\ThirdDigitCheck\bin\Debug\ThirdDigitCheck.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\ThirdDigitCheck\obj\x86\Debug\ThirdDigitCheck.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\ThirdDigitCheck\obj\x86\Debug\ThirdDigitCheck.pdb

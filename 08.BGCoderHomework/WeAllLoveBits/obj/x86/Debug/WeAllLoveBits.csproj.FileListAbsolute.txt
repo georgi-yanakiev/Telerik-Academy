@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\WeAllLoveBits\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\WeAllLoveBits\obj\x86\Debug\WeAllLoveBits.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\WeAllLoveBits\obj\x86\Debug\WeAllLoveBits.pdb

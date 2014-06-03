@@ -1,0 +1,5 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\VariableDeclarations\bin\Debug\VariableDeclarations.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\VariableDeclarations\bin\Debug\VariableDeclarations.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\VariableDeclarations\bin\Debug\VariableDeclarations.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\VariableDeclarations\obj\Debug\VariableDeclarations.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\VariableDeclarations\obj\Debug\VariableDeclarations.pdb

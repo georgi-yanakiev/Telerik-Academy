@@ -1,0 +1,8 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\InputTypeCheck\bin\Debug\InputTypeCheck.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\InputTypeCheck\obj\Debug\InputTypeCheck.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\InputTypeCheck\obj\Debug\InputTypeCheck.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\InputTypeCheck\bin\Debug\InputTypeCheck.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\InputTypeCheck\bin\Debug\InputTypeCheck.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\InputTypeCheck\bin\Debug\InputTypeCheck.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\InputTypeCheck\obj\Debug\InputTypeCheck.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\InputTypeCheck\obj\Debug\InputTypeCheck.pdb

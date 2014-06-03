@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItOne\bin\Debug\IsItOne.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItOne\bin\Debug\IsItOne.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItOne\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItOne\obj\x86\Debug\IsItOne.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\IsItOne\obj\x86\Debug\IsItOne.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\IsItOne\obj\x86\Debug\IsItOne.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\IsItOne\obj\x86\Debug\IsItOne.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\IsItOne\bin\Debug\IsItOne.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\IsItOne\bin\Debug\IsItOne.pdb

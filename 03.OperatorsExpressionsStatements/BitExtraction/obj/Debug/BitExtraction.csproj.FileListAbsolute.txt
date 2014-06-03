@@ -1,0 +1,6 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\BitExtraction\bin\Debug\BitExtraction.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\BitExtraction\bin\Debug\BitExtraction.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\BitExtraction\bin\Debug\BitExtraction.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\BitExtraction\obj\Debug\BitExtraction.csprojResolveAssemblyReference.cache
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\BitExtraction\obj\Debug\BitExtraction.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\BitExtraction\obj\Debug\BitExtraction.pdb

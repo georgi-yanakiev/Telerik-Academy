@@ -1,0 +1,5 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SubsetSum\bin\Debug\SubsetSum.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SubsetSum\bin\Debug\SubsetSum.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SubsetSum\bin\Debug\SubsetSum.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SubsetSum\obj\Debug\SubsetSum.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SubsetSum\obj\Debug\SubsetSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SignOfTheProduct\bin\Debug\SignOfTheProduct.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SignOfTheProduct\bin\Debug\SignOfTheProduct.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SignOfTheProduct\bin\Debug\SignOfTheProduct.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SignOfTheProduct\obj\Debug\SignOfTheProduct.csprojResolveAssemblyReference.cache
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SignOfTheProduct\obj\Debug\SignOfTheProduct.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SignOfTheProduct\obj\Debug\SignOfTheProduct.pdb

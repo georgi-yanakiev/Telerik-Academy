@@ -1,0 +1,6 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\NameTheDigit\bin\Debug\NameTheDigit.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\NameTheDigit\bin\Debug\NameTheDigit.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\NameTheDigit\bin\Debug\NameTheDigit.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\NameTheDigit\obj\Debug\NameTheDigit.csprojResolveAssemblyReference.cache
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\NameTheDigit\obj\Debug\NameTheDigit.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\NameTheDigit\obj\Debug\NameTheDigit.pdb

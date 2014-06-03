@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PreciseSum\bin\Debug\PreciseSum.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PreciseSum\bin\Debug\PreciseSum.pdb
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PreciseSum\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PreciseSum\obj\x86\Debug\PreciseSum.exe
+d:\Users\Visual Studio 2010\Projects\ConsoleInputOutput\PreciseSum\obj\x86\Debug\PreciseSum.pdb

@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FirTree\bin\Debug\FirTree.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FirTree\bin\Debug\FirTree.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FirTree\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FirTree\obj\x86\Debug\FirTree.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FirTree\obj\x86\Debug\FirTree.pdb

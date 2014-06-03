@@ -1,0 +1,5 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\SafeComparison\bin\Debug\SafeComparison.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\SafeComparison\bin\Debug\SafeComparison.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\SafeComparison\bin\Debug\SafeComparison.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\SafeComparison\obj\Debug\SafeComparison.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\SafeComparison\obj\Debug\SafeComparison.pdb

@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\AstrologicalDigits\bin\Debug\AstrologicalDigits.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\AstrologicalDigits\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\AstrologicalDigits\obj\x86\Debug\AstrologicalDigits.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\AstrologicalDigits\obj\x86\Debug\AstrologicalDigits.pdb

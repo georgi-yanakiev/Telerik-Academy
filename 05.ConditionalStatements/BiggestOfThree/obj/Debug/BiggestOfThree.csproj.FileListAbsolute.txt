@@ -1,0 +1,5 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\BiggestOfThree\bin\Debug\BiggestOfThree.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\BiggestOfThree\bin\Debug\BiggestOfThree.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\BiggestOfThree\bin\Debug\BiggestOfThree.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\BiggestOfThree\obj\Debug\BiggestOfThree.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\BiggestOfThree\obj\Debug\BiggestOfThree.pdb

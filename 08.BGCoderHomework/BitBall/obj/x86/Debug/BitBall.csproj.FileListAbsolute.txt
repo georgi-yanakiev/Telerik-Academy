@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\BitBall\bin\Debug\BitBall.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\BitBall\bin\Debug\BitBall.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\BitBall\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\BitBall\obj\x86\Debug\BitBall.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\BitBall\obj\x86\Debug\BitBall.pdb

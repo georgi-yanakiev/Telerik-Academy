@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\SandGlass\bin\Debug\SandGlass.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\SandGlass\bin\Debug\SandGlass.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\SandGlass\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\SandGlass\obj\x86\Debug\SandGlass.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\SandGlass\obj\x86\Debug\SandGlass.pdb

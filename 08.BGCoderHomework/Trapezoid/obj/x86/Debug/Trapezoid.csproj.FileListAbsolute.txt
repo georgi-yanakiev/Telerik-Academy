@@ -1,0 +1,5 @@
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\Trapezoid\bin\Debug\Trapezoid.exe
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\Trapezoid\bin\Debug\Trapezoid.pdb
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\Trapezoid\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\Trapezoid\obj\x86\Debug\Trapezoid.exe
+D:\Users\Visual Studio 2010\Projects\BGCoderHomework\Trapezoid\obj\x86\Debug\Trapezoid.pdb

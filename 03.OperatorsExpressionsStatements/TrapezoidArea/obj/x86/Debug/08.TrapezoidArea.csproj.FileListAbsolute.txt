@@ -1,0 +1,6 @@
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.pdb

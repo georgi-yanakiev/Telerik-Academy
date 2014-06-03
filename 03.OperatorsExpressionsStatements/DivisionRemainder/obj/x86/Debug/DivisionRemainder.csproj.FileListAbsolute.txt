@@ -1,0 +1,5 @@
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\DivideRemainder\bin\Debug\DivideRemainder.exe
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\DivideRemainder\bin\Debug\DivideRemainder.pdb
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\DivideRemainder\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\DivideRemainder\obj\x86\Debug\DivideRemainder.exe
+d:\users\visual studio 2010\Projects\OperatorsExpressionsStatements\DivideRemainder\obj\x86\Debug\DivideRemainder.pdb

@@ -1,0 +1,6 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\AssignableValues\bin\Debug\AssignableValues.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\AssignableValues\bin\Debug\AssignableValues.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\AssignableValues\bin\Debug\AssignableValues.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\AssignableValues\obj\Debug\AssignableValues.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\AssignableValues\obj\Debug\AssignableValues.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\PrimitiveDataTypesHomework\AssignableValues\obj\Debug\02.AssignableValues.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\obj\x86\Debug\MyName.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\obj\x86\Debug\MyName.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\bin\Debug\MyName.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\bin\Debug\MyName.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyName\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyName\bin\Debug\MyName.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyName\bin\Debug\MyName.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyName\obj\x86\Debug\MyName.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyName\obj\x86\Debug\MyName.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyName\obj\x86\Debug\03. MyName.csprojResolveAssemblyReference.cache

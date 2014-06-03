@@ -1,0 +1,5 @@
+d:\users\visual studio 2010\Projects\ConsoleInputOutput\PerimeterAndArea\bin\Debug\PerimeterAndArea.exe
+d:\users\visual studio 2010\Projects\ConsoleInputOutput\PerimeterAndArea\bin\Debug\PerimeterAndArea.pdb
+d:\users\visual studio 2010\Projects\ConsoleInputOutput\PerimeterAndArea\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\ConsoleInputOutput\PerimeterAndArea\obj\x86\Debug\PerimeterAndArea.exe
+d:\users\visual studio 2010\Projects\ConsoleInputOutput\PerimeterAndArea\obj\x86\Debug\PerimeterAndArea.pdb

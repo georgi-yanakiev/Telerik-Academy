@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ShipDamage\bin\Debug\ShipDamage.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ShipDamage\bin\Debug\ShipDamage.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ShipDamage\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ShipDamage\obj\x86\Debug\ShipDamage.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ShipDamage\obj\x86\Debug\ShipDamage.pdb

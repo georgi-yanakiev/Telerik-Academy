@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FighterAttack\bin\Debug\FighterAttack.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FighterAttack\bin\Debug\FighterAttack.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FighterAttack\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FighterAttack\obj\x86\Debug\FighterAttack.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\FighterAttack\obj\x86\Debug\FighterAttack.pdb

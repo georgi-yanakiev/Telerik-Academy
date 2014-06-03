@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ForestRoad\bin\Debug\ForestRoad.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ForestRoad\bin\Debug\ForestRoad.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ForestRoad\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ForestRoad\obj\x86\Debug\ForestRoad.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\ForestRoad\obj\x86\Debug\ForestRoad.pdb

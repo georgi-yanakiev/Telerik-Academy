@@ -1,0 +1,8 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SortingNumbers\obj\Debug\SortingNumbers.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\ConditionalStatements\SortingNumbers\obj\Debug\SortingNumbers.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SortingNumbers\bin\Debug\SortingNumbers.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SortingNumbers\bin\Debug\SortingNumbers.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SortingNumbers\obj\Debug\SortingNumbers.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\ConditionalStatements\SortingNumbers\obj\Debug\SortingNumbers.pdb

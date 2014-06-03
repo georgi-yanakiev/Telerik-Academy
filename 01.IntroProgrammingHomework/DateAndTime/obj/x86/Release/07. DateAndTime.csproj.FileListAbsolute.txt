@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\DateAndTime\bin\Release\DateAndTime.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\DateAndTime\bin\Release\DateAndTime.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\DateAndTime\obj\x86\Release\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\DateAndTime\obj\x86\Release\DateAndTime.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\DateAndTime\obj\x86\Release\DateAndTime.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\DateAndTime\bin\Release\DateAndTime.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\DateAndTime\bin\Release\DateAndTime.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\DateAndTime\obj\x86\Release\DateAndTime.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\DateAndTime\obj\x86\Release\DateAndTime.pdb

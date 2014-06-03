@@ -1,0 +1,5 @@
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\TheSequence\bin\Debug\TheSequence.exe
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\TheSequence\bin\Debug\TheSequence.pdb
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\TheSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\TheSequence\obj\x86\Debug\TheSequence.exe
+d:\users\visual studio 2010\Projects\IntroProgrammingHomework\TheSequence\obj\x86\Debug\TheSequence.pdb

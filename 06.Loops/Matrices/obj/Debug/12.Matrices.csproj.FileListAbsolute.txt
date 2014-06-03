@@ -1,0 +1,5 @@
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\Matrices\bin\Debug\Matrices.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\Matrices\bin\Debug\Matrices.pdb
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\Matrices\obj\Debug\Matrices.exe
+C:\Users\METRONOME\Documents\Visual Studio 2013\Projects\Loops\Matrices\obj\Debug\Matrices.pdb

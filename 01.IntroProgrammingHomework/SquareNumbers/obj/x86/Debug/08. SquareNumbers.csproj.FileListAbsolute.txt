@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\obj\x86\Debug\SquareNumbers.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\obj\x86\Debug\SquareNumbers.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\bin\Debug\SquareNumbers.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\bin\Debug\SquareNumbers.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\SquareNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\SquareNumbers\bin\Debug\SquareNumbers.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\SquareNumbers\bin\Debug\SquareNumbers.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\SquareNumbers\obj\x86\Debug\SquareNumbers.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\SquareNumbers\obj\x86\Debug\SquareNumbers.pdb

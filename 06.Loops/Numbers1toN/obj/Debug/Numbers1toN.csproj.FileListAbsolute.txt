@@ -1,0 +1,6 @@
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\Numbers1toN\bin\Debug\Numbers1toN.exe.config
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\Numbers1toN\bin\Debug\Numbers1toN.exe
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\Numbers1toN\bin\Debug\Numbers1toN.pdb
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\Numbers1toN\obj\Debug\Numbers1toN.csprojResolveAssemblyReference.cache
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\Numbers1toN\obj\Debug\Numbers1toN.exe
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\Numbers1toN\obj\Debug\Numbers1toN.pdb

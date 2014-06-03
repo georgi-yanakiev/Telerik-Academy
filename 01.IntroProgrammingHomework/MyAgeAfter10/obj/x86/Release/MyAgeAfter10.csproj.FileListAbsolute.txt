@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyAgeAfter10\obj\x86\Release\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyAgeAfter10\bin\Release\MyAgeAfter10.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyAgeAfter10\bin\Release\MyAgeAfter10.pdb
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyAgeAfter10\obj\x86\Release\MyAgeAfter10.exe
+d:\Users\Visual Studio 2010\Projects\IntroProgrammingHomework\MyAgeAfter10\obj\x86\Release\MyAgeAfter10.pdb

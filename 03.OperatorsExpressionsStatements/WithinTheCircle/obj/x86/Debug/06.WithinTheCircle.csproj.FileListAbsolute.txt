@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\WithinTheCircle\obj\x86\Debug\WithinTheCircle.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\WithinTheCircle\obj\x86\Debug\WithinTheCircle.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\WithinTheCircle\bin\Debug\WithinTheCircle.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\WithinTheCircle\bin\Debug\WithinTheCircle.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\WithinTheCircle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\WithinTheCircle\bin\Debug\WithinTheCircle.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\WithinTheCircle\bin\Debug\WithinTheCircle.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\WithinTheCircle\obj\x86\Debug\WithinTheCircle.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\WithinTheCircle\obj\x86\Debug\WithinTheCircle.pdb

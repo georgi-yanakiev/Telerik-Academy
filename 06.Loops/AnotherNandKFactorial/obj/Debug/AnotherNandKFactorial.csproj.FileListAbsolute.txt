@@ -1,0 +1,5 @@
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\AnotherNandKFactorial\bin\Debug\AnotherNandKFactorial.exe.config
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\AnotherNandKFactorial\bin\Debug\AnotherNandKFactorial.exe
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\AnotherNandKFactorial\bin\Debug\AnotherNandKFactorial.pdb
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\AnotherNandKFactorial\obj\Debug\AnotherNandKFactorial.exe
+c:\users\metronome\documents\visual studio 2013\Projects\Loops\AnotherNandKFactorial\obj\Debug\AnotherNandKFactorial.pdb

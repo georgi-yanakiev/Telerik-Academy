@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\CircleAndRectangle\bin\Debug\CircleAndRectangle.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\CircleAndRectangle\bin\Debug\CircleAndRectangle.pdb
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\CircleAndRectangle\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\CircleAndRectangle\obj\x86\Debug\CircleAndRectangle.exe
+d:\Users\Visual Studio 2010\Projects\OperatorsExpressionsStatements\CircleAndRectangle\obj\x86\Debug\CircleAndRectangle.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\CircleAndRectangle\bin\Debug\CircleAndRectangle.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\CircleAndRectangle\bin\Debug\CircleAndRectangle.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\CircleAndRectangle\obj\x86\Debug\CircleAndRectangle.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\OperatorsExpressionsStatements\CircleAndRectangle\obj\x86\Debug\CircleAndRectangle.pdb

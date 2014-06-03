@@ -1,0 +1,4 @@
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyAgeAfter10\bin\Release\MyAgeAfter10.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyAgeAfter10\bin\Release\MyAgeAfter10.pdb
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyAgeAfter10\obj\x86\Release\MyAgeAfter10.exe
+D:\PROJECTS\C# PROJECTS\TELERIK\IntroProgrammingHomework\MyAgeAfter10\obj\x86\Release\MyAgeAfter10.pdb

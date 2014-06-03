@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\Tribonacci\bin\Debug\Tribonacci.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\Tribonacci\bin\Debug\Tribonacci.pdb
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\Tribonacci\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\Tribonacci\obj\x86\Debug\Tribonacci.exe
+d:\Users\Visual Studio 2010\Projects\BGCoderHomework\Tribonacci\obj\x86\Debug\Tribonacci.pdb
