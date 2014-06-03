@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Table</title>
+    <style type="text/css">
+        table,
+        td,
+        th {
+            border: 1px solid black;
+        }
+        td {
+            width: 26px;
+        }
+        .centcell {
+            text-align: center;
+        }
+        .rightcell {
+            text-align: right;
+        }
+        .botcell {
+            text-align: right;
+            vertical-align: bottom;
+        }
+    </style>
+</head>
+
+<body>
+
+    <table>
+        <tr>
+            <td colspan="3">Title does here</td>
+            <td class="centcell">A</td>
+            <td class="rightcell">B</td>
+        </tr>
+        <tr>
+            <td rowspan="3">C</td>
+            <td class="centcell">D</td>
+            <td class="centcell">E</td>
+            <td class="centcell">F</td>
+            <td class="rightcell">G</td>
+        </tr>
+        <tr>
+            <td class="centcell">H</td>
+            <td colspan="2" class="centcell">I</td>
+            <td rowspan="2" class="botcell">J</td>
+        </tr>
+        <tr>
+            <td class="centcell">K</td>
+            <td class="centcell">L</td>
+            <td class="centcell">M</td>
+        </tr>
+        <tr>
+            <td class="rightcell">N</td>
+            <td colspan="4" class="centcell">O</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
