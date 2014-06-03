@@ -1,0 +1,1 @@
+﻿The second source code listing differs only byprefacing that line of code with str which tells the compiler to assign whatever follows the equal sign to the str instance of the String type.

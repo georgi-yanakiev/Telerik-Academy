@@ -1,0 +1,9 @@
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalIncreasingSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalIncreasingSequence\obj\x86\Debug\MaximalIncreasingSequence.exe
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalIncreasingSequence\obj\x86\Debug\MaximalIncreasingSequence.pdb
+D:\TELERIK\ArraysHomework\MaximalIncreasingSequence\obj\x86\Debug\MaximalIncreasingSequence.exe
+D:\TELERIK\ArraysHomework\MaximalIncreasingSequence\obj\x86\Debug\MaximalIncreasingSequence.pdb
+D:\TELERIK\ArraysHomework\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+D:\TELERIK\ArraysHomework\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb

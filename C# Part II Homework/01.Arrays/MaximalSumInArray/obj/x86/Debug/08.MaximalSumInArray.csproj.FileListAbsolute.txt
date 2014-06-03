@@ -1,0 +1,4 @@
+D:\TELERIK\ArraysHomework\MaximalSumInArray\obj\x86\Debug\MaximalSumInArray.exe
+D:\TELERIK\ArraysHomework\MaximalSumInArray\obj\x86\Debug\MaximalSumInArray.pdb
+D:\TELERIK\ArraysHomework\MaximalSumInArray\bin\Debug\MaximalSumInArray.exe
+D:\TELERIK\ArraysHomework\MaximalSumInArray\bin\Debug\MaximalSumInArray.pdb

@@ -1,0 +1,6 @@
+D:\TELERIK\ArraysHomework\AlphabetArray\bin\Debug\AlphabetArray.exe.config
+D:\TELERIK\ArraysHomework\AlphabetArray\bin\Debug\AlphabetArray.exe
+D:\TELERIK\ArraysHomework\AlphabetArray\bin\Debug\AlphabetArray.pdb
+D:\TELERIK\ArraysHomework\AlphabetArray\obj\Debug\AlphabetArray.csprojResolveAssemblyReference.cache
+D:\TELERIK\ArraysHomework\AlphabetArray\obj\Debug\AlphabetArray.exe
+D:\TELERIK\ArraysHomework\AlphabetArray\obj\Debug\AlphabetArray.pdb

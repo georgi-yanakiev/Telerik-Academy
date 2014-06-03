@@ -1,0 +1,5 @@
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\SelectionSortArray\bin\Debug\SelectionSortArray.exe
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\SelectionSortArray\bin\Debug\SelectionSortArray.pdb
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\SelectionSortArray\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\SelectionSortArray\obj\x86\Debug\SelectionSortArray.exe
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\SelectionSortArray\obj\x86\Debug\SelectionSortArray.pdb

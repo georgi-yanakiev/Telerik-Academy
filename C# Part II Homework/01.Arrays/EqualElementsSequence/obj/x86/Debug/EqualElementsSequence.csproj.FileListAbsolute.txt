@@ -1,0 +1,5 @@
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\EqualElementsSequence\bin\Debug\EqualElementsSequence.exe
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\EqualElementsSequence\bin\Debug\EqualElementsSequence.pdb
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\EqualElementsSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\EqualElementsSequence\obj\x86\Debug\EqualElementsSequence.exe
+D:\Users\Visual Studio 2010\Projects\ArraysHomework\EqualElementsSequence\obj\x86\Debug\EqualElementsSequence.pdb

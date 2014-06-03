@@ -1,0 +1,5 @@
+D:\TELERIK\ArraysHomework\MergeSort\bin\Debug\MergeSort.exe.config
+D:\TELERIK\ArraysHomework\MergeSort\bin\Debug\MergeSort.exe
+D:\TELERIK\ArraysHomework\MergeSort\bin\Debug\MergeSort.pdb
+D:\TELERIK\ArraysHomework\MergeSort\obj\Debug\MergeSort.exe
+D:\TELERIK\ArraysHomework\MergeSort\obj\Debug\MergeSort.pdb

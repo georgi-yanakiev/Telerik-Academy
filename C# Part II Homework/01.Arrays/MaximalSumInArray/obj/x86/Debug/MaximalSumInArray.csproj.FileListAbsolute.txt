@@ -1,0 +1,9 @@
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalSumInArray\bin\Debug\MaximalSumInArray.exe
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalSumInArray\bin\Debug\MaximalSumInArray.pdb
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalSumInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalSumInArray\obj\x86\Debug\MaximalSumInArray.exe
+d:\Users\Visual Studio 2010\Projects\ArraysHomework\MaximalSumInArray\obj\x86\Debug\MaximalSumInArray.pdb
+D:\TELERIK\ArraysHomework\MaximalSumInArray\obj\x86\Debug\MaximalSumInArray.exe
+D:\TELERIK\ArraysHomework\MaximalSumInArray\obj\x86\Debug\MaximalSumInArray.pdb
+D:\TELERIK\ArraysHomework\MaximalSumInArray\bin\Debug\MaximalSumInArray.exe
+D:\TELERIK\ArraysHomework\MaximalSumInArray\bin\Debug\MaximalSumInArray.pdb

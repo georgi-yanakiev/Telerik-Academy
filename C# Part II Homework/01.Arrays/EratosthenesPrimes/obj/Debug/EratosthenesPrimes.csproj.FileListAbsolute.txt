@@ -1,0 +1,5 @@
+D:\TELERIK\ArraysHomework\EratosthenesPrimes\bin\Debug\EratosthenesPrimes.exe.config
+D:\TELERIK\ArraysHomework\EratosthenesPrimes\bin\Debug\EratosthenesPrimes.exe
+D:\TELERIK\ArraysHomework\EratosthenesPrimes\bin\Debug\EratosthenesPrimes.pdb
+D:\TELERIK\ArraysHomework\EratosthenesPrimes\obj\Debug\EratosthenesPrimes.exe
+D:\TELERIK\ArraysHomework\EratosthenesPrimes\obj\Debug\EratosthenesPrimes.pdb

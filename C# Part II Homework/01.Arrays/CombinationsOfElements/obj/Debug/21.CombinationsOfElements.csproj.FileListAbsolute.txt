@@ -1,0 +1,5 @@
+D:\TELERIK\ArraysHomework\CombinationsOfElements\bin\Debug\CombinationsOfElements.exe.config
+D:\TELERIK\ArraysHomework\CombinationsOfElements\bin\Debug\CombinationsOfElements.exe
+D:\TELERIK\ArraysHomework\CombinationsOfElements\bin\Debug\CombinationsOfElements.pdb
+D:\TELERIK\ArraysHomework\CombinationsOfElements\obj\Debug\CombinationsOfElements.exe
+D:\TELERIK\ArraysHomework\CombinationsOfElements\obj\Debug\CombinationsOfElements.pdb

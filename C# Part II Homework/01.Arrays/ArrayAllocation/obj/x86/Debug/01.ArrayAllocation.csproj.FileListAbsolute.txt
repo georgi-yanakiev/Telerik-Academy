@@ -1,0 +1,9 @@
+d:\users\visual studio 2010\Projects\ArraysHomework\ArrayAllocation\bin\Debug\ArrayAllocation.exe
+d:\users\visual studio 2010\Projects\ArraysHomework\ArrayAllocation\bin\Debug\ArrayAllocation.pdb
+d:\users\visual studio 2010\Projects\ArraysHomework\ArrayAllocation\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\visual studio 2010\Projects\ArraysHomework\ArrayAllocation\obj\x86\Debug\ArrayAllocation.exe
+d:\users\visual studio 2010\Projects\ArraysHomework\ArrayAllocation\obj\x86\Debug\ArrayAllocation.pdb
+D:\TELERIK\ArraysHomework\ArrayAllocation\obj\x86\Debug\ArrayAllocation.exe
+D:\TELERIK\ArraysHomework\ArrayAllocation\obj\x86\Debug\ArrayAllocation.pdb
+D:\TELERIK\ArraysHomework\ArrayAllocation\bin\Debug\ArrayAllocation.exe
+D:\TELERIK\ArraysHomework\ArrayAllocation\bin\Debug\ArrayAllocation.pdb

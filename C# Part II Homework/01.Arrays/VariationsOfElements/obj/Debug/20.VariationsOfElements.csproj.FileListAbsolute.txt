@@ -1,0 +1,5 @@
+D:\TELERIK\ArraysHomework\VariationsOfElements\bin\Debug\VariationsOfElements.exe.config
+D:\TELERIK\ArraysHomework\VariationsOfElements\obj\Debug\VariationsOfElements.exe
+D:\TELERIK\ArraysHomework\VariationsOfElements\obj\Debug\VariationsOfElements.pdb
+D:\TELERIK\ArraysHomework\VariationsOfElements\bin\Debug\VariationsOfElements.exe
+D:\TELERIK\ArraysHomework\VariationsOfElements\bin\Debug\VariationsOfElements.pdb

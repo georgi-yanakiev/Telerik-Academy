@@ -1,0 +1,6 @@
+C:\Users\JK\Downloads\fallingwords-24604\FallingWordsGame\bin\Debug\FallingWordsGame.exe.config
+C:\Users\JK\Downloads\fallingwords-24604\FallingWordsGame\bin\Debug\FallingWordsGame.exe
+C:\Users\JK\Downloads\fallingwords-24604\FallingWordsGame\bin\Debug\FallingWordsGame.pdb
+C:\Users\JK\Downloads\fallingwords-24604\FallingWordsGame\obj\Debug\FallingWordsGame.csprojResolveAssemblyReference.cache
+C:\Users\JK\Downloads\fallingwords-24604\FallingWordsGame\obj\Debug\FallingWordsGame.exe
+C:\Users\JK\Downloads\fallingwords-24604\FallingWordsGame\obj\Debug\FallingWordsGame.pdb

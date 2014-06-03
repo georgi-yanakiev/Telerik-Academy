@@ -1,0 +1,6 @@
+D:\TELERIK\ArraysHomework\GivenSumInArray\bin\Debug\GivenSumInArray.exe.config
+D:\TELERIK\ArraysHomework\GivenSumInArray\obj\Debug\GivenSumInArray.exe
+D:\TELERIK\ArraysHomework\GivenSumInArray\obj\Debug\GivenSumInArray.pdb
+D:\TELERIK\ArraysHomework\GivenSumInArray\bin\Debug\GivenSumInArray.exe
+D:\TELERIK\ArraysHomework\GivenSumInArray\bin\Debug\GivenSumInArray.pdb
+D:\TELERIK\ArraysHomework\GivenSumInArray\obj\Debug\10.GivenSumInArray.csprojResolveAssemblyReference.cache
